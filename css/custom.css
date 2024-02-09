@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'alfa_slab_oneregular';
+    src: url('../fonts/alfaslabone-regular-webfont.woff2') format('woff2'),
+         url('../fonts/alfaslabone-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'cantata_oneregular';
+    src: url('../fonts/cantataone-regular-webfont.woff2') format('woff2'),
+         url('../fonts/cantataone-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'dm_serif';
+    src: url('../fonts/dmserifdisplay-regular-webfont.woff2') format('woff2'),
+         url('../fonts/dmserifdisplay-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.titulo {
+
+    font-family: "alfa_slab_oneregular", "Trebuchet MS", Verdana, serif;
+}
+
+.ar {
+    color: #fe9000;
+}
+
+a:visited {
+    color: #6f42c1;
+  }
+
+.btn-bd-primary {
+    --bs-btn-font-weight: 600;
+    --bs-btn-color: var(--bs-white);
+    --bs-btn-bg: #fe9000;
+    --bs-btn-border-radius: .5rem;
+    --bs-btn-hover-color: var(--bs-white);
+    --bs-btn-hover-bg: #565049;
+    --bs-btn-hover-border-color: #{shade-color($bd-violet, 10%)};
+    --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
+    --bs-btn-active-color: var(--bs-btn-hover-color);
+    --bs-btn-active-bg: #{shade-color($bd-violet, 20%)};
+    --bs-btn-active-border-color: #{shade-color($bd-violet, 20%)};
+  }
+
+.form-control:focus {
+    border-color: #fe9000;
+    box-shadow: none;
+}
+
+  :root,
+[data-bs-theme=light] {
+    --bs-body-bg: #fcf9f7;
+}
