@@ -48,19 +48,22 @@ function getQuery($q) : string {
   if (strlen($input) > 3 ) {
 
     if (count($inputa) > 1) {
-      
+
+      $s1 = "";
+
       foreach ($inputa as $word) {
+
         
         $s1 .= "[[:print:]]*" . "\b" . $word . "\b";
 
       }
-
       $s = "/" . $s1 . "/i";
+      
       return $s;
 
     } else {
 
-      return "/^\b". $inputa[0] . "\b/i";
+      return "/\b". $inputa[0] . "\b/i";
 
     }
     
@@ -73,7 +76,7 @@ function getQuery($q) : string {
 }
 
 function getName($n) : string {
-  // Reempĺazar .sub y .txt
+  
   $rmext = str_replace([".srt", ".sub", ".txt"], "", $n);
   $name = str_replace(".", " ", $rmext);
   return $name;
@@ -83,21 +86,49 @@ function getName($n) : string {
 function getLink($p, $n) : string {
 
   $directory = str_replace(["db", ".json"], ["subs", "/"], $p);
-  //poner un if por si tiene espacios
-  //$file = str_replace(" ", "%20", ($n));
   $file = rawurlencode($n);
-  $link = $directory . $file;
+  $link = $directory . $file . ".zip";
   return $link;
 
 }
 
+function searchZip($s, $n) : bool {
+  
+  $name = getName($n->name);
+  
+  if (preg_match($s, $name)) {
 
+    return true;
+
+  } else {
+    
+    return false;
+  
+  }
+}
+
+function searchContent($s, $na) : bool {
+
+  foreach ($na as $n) {
+
+    $namec = getName($n->name);
+
+    if (preg_match($s, $namec)) {
+
+      return true;
+  
+    }
+
+  }
+
+  return false;
+
+}
+
+$search = "";
 
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
-  //$pos = $_POST["query"];
-  //$input = htmlspecialchars($pos, ENT_QUOTES);
-  //$input = preg_replace("/[^a-z0-9]+/i", "", $pos); 
-  //$input = $_POST["query"];
+ 
   $search = getQuery($_POST["query"]);
 }
 
@@ -106,33 +137,46 @@ $indexj = json_decode($indexf);
 $filenames = [...$indexj[0]->contents];
 
 //if search no está vacio
-if ($search != "/^\b\b/i") {
 
-foreach ($filenames as $filename) {
+if ($search != "") {
+foreach ($filenames as $file) {
 
-$path = "db/" . $filename->name;
+$path = "db/" . $file->name;
 $data = file_get_contents($path);
-$json = json_decode($data);
+$datautf8 = mb_convert_encoding($data, "UTF-8", "auto");
+$json = json_decode($datautf8);
 $dir = [...$json[0]->contents];
 
-        foreach ($dir as $file) {
+        foreach ($dir as $zip) {
         
-        $name = getName($file->name);
+        $nameZip = preg_replace("/-aRGENTeaM-[[:digit:]]+/" , "" , getName($zip->name));//nombre del zip
+        $contents = $zip->contents; //array de subtitulos
 
-        if (preg_match($search, $name)) {
+          if (searchContent($search, $contents) || searchZip($search, $zip)) {
 
-          $file = getLink($path, $file->name);
+          $file = getLink($path, $zip->name); 
 
-          echo "<tr>";
-          echo "<td>", $name, "</td>";
-          echo "<td class='text-end'>",  "<a class='link-opacity-50-hover' href=", $file ," download>Descargar</a>" , "</td>";
-          echo "</tr>";
+            echo "<tr>";
+            echo '<td class="text-center">', "<a class='link-opacity-50-hover' href=", $file ,">",$nameZip,"</a>", "</td>";
+            echo "</tr>";
 
+            foreach ($contents as $contentd) {
+            
+              if ($contentd->type == "file") {
+                
+                echo "<tr>";              
+                echo '<td class="text-center">', getName($contentd->name) , "</td>";
+                echo "</tr>";
+
+              }
+
+            }
+          
           }
         }
-      }
+    }
 
-  }
+ }
 ?>
 </tbody>
 </table>
