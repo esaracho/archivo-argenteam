@@ -1,422 +1,863 @@
 [
   {"type":"directory","name":".","contents":[
-    {"type":"file","name":"A.Brilliant.Young.Mind.2014.DVDRip.x264-RedBlade.srt"},
-    {"type":"file","name":"Complete.Season.2.-.XviD-AC3-Pi314.htm"},
-    {"type":"file","name":"e-links.5ta.AMC.html"},
-    {"type":"file","name":"e-links.6ta.AMC.html"},
-    {"type":"file","name":"Triple.X.Proper.DVDrip.DivX-PosTX-CD1.srt"},
-    {"type":"file","name":"Triple.X.Proper.DVDrip.DivX-PosTX-CD2.srt"},
-    {"type":"file","name":"X.2022.1080p.BluRay.x264-PiGNUS.srt"},
-    {"type":"file","name":"X.2022.720p.BluRay.x264-PiGNUS.srt"},
-    {"type":"file","name":"X2.2003.720p.BluRay.x264-BestHD.srt"},
-    {"type":"file","name":"X2.2003.DVDRip.XviD.AC3-C00LdUdE.srt"},
-    {"type":"file","name":"X2.2003.PROPER.DVDRip.AC3.XviD-DVL.CD1.srt"},
-    {"type":"file","name":"X2.2003.PROPER.DVDRip.AC3.XviD-DVL.CD2.srt"},
-    {"type":"file","name":"X2.X-Men.United.PROPER.DVDRip.XViD-DVL.CD1.srt"},
-    {"type":"file","name":"X2.X-Men.United.PROPER.DVDRip.XViD-DVL.CD2.srt"},
-    {"type":"file","name":"Xchange.2000.DVDRip.DivX-TRiPDivX.srt"},
-    {"type":"file","name":"Xena-1x01-Sins_Of_The_Past_Esp.srt"},
-    {"type":"file","name":"Xena-1x02-Chariots_Of_War_Esp.srt"},
-    {"type":"file","name":"Xena-1x03-Dreamworker_Esp.srt"},
-    {"type":"file","name":"Xena-1x04-Cradle_Of_Hope_Esp.srt"},
-    {"type":"file","name":"Xena-1x05-The_Path_Not_Taken_Esp.srt"},
-    {"type":"file","name":"Xena-1x06-The_Reckoning_Esp.srt"},
-    {"type":"file","name":"Xena-1x07-The_Titans_Esp.srt"},
-    {"type":"file","name":"Xena-1x08-Prometheus_Esp.srt"},
-    {"type":"file","name":"Xena-1x09-Death_In_Chains_Esp.srt"},
-    {"type":"file","name":"Xena-1x10-Hooves_And_Harlots_Esp.srt"},
-    {"type":"file","name":"Xena-1x11-The_Black_Wolf_Esp.srt"},
-    {"type":"file","name":"Xena-1x12-Beware_Greeks_Bearing_Gifts_Esp.srt"},
-    {"type":"file","name":"Xena-1x13-Athens_City_Academy_Of_The_Performing_Bards_Esp.srt"},
-    {"type":"file","name":"Xena-1x14-A_Fistful_Of_Dinars_Esp.srt"},
-    {"type":"file","name":"Xena-1x15-Warrior_Princess_Esp.srt"},
-    {"type":"file","name":"Xena-1x16-Mortal_Beloved_Esp.srt"},
-    {"type":"file","name":"Xena-1x17-The_Royal_Couple_Of_Thieves_Esp.srt"},
-    {"type":"file","name":"Xena-1x18-The_Prodigal_Esp.srt"},
-    {"type":"file","name":"Xena-1x19-Altared_States_Esp.srt"},
-    {"type":"file","name":"Xena-1x20-Ties_That_Bind_Esp.srt"},
-    {"type":"file","name":"Xena-1x21-The_Greater_Good_Esp.srt"},
-    {"type":"file","name":"Xena-1x22-Callisto_Esp.srt"},
-    {"type":"file","name":"Xena-1x23-Death_Mask_Esp.srt"},
-    {"type":"file","name":"Xena-1x24-Is_There_A_Doctor_In_The_House_Esp.srt"},
-    {"type":"file","name":"Xena-6x01-Coming_Home_Esp.srt"},
-    {"type":"file","name":"Xena-6x02-The_Haunting_Of_Amphipolis_Esp.srt"},
-    {"type":"file","name":"Xena-6x03-Heart_Of_Darkness_Esp.srt"},
-    {"type":"file","name":"Xena-6x04-Who's_Gurkhan_Esp.srt"},
-    {"type":"file","name":"Xena-6x05-Legacy_Esp.srt"},
-    {"type":"file","name":"Xena-6x06-The_Abyss_Esp.srt"},
-    {"type":"file","name":"Xena-6x07-The_Rheingold_Esp.srt"},
-    {"type":"file","name":"Xena-6x08-The_Ring_Esp.srt"},
-    {"type":"file","name":"Xena-6x09-Return_Of_The_Valkyrie_Esp.srt"},
-    {"type":"file","name":"Xena-6x10-Old_Ares_Had_A_Farm_Esp.srt"},
-    {"type":"file","name":"Xena-6x11-Dangerous_Prey_Esp.srt"},
-    {"type":"file","name":"Xena-6x12-The_God_You_Know_Esp.srt"},
-    {"type":"file","name":"Xena-6x13-You_Are_There_Esp.srt"},
-    {"type":"file","name":"Xena-6x14-Path_Of_Vengeance_Esp.srt"},
-    {"type":"file","name":"Xena-6x15-To_Helicon_And_Back_Esp.srt"},
-    {"type":"file","name":"Xena-6x16-Send_In_The_Clones_Esp.srt"},
-    {"type":"file","name":"Xena-6x17-Last_Of_The_Centaurs_Esp.srt"},
-    {"type":"file","name":"Xena-6x18-When_Fates_Collide_Esp.srt"},
-    {"type":"file","name":"Xena-6x19-Many_Happy_Returns_Esp.srt"},
-    {"type":"file","name":"Xena-6x20-Soul_Possession_Esp.srt"},
-    {"type":"file","name":"Xena-6x21-22-A_Friend_In_Need_Director's_Cut_Esp.srt"},
-    {"type":"file","name":"Xena-6x21-22-A_Friend_In_Need_Director's_Cut_(Jem)_Esp.srt"},
-    {"type":"file","name":"Xena-6x21-A_Friend_In_Need_1_Esp.srt"},
-    {"type":"file","name":"Xena-6x22-A_Friend_In_Need_2_Esp.srt"},
-    {"type":"file","name":"Xena.S01E01.Sins.Of.The.Past.(DVD).SFM.srt"},
-    {"type":"file","name":"Xena.S01E02.Chariots.Of.War.(DVD).SFM.srt"},
-    {"type":"file","name":"Xena.S01E03.Dreamworker.(DVD).SFM.srt"},
-    {"type":"file","name":"Xena.S01E04.Cradle.Of.Hope.(DVD).SFM.srt"},
-    {"type":"file","name":"Xena.S01E05.The.Path.Not.Taken.(DVD).SFM.srt"},
-    {"type":"file","name":"Xena.S01E06.The.Reckoning.(DVD).SFM.srt"},
-    {"type":"file","name":"Xena.S01E07.The.Titans.(DVD).SFM.srt"},
-    {"type":"file","name":"Xena.S01E08.Prometheus.(DVD).SFM.srt"},
-    {"type":"file","name":"Xena.S01E09.Death.In.Chains.(DVD).SFM.srt"},
-    {"type":"file","name":"Xena.S01E10.Hooves.And.Harlots.(DVD).SFM.srt"},
-    {"type":"file","name":"Xena.S01E11.The.Black.Wolf.(DVD).SFM.srt"},
-    {"type":"file","name":"Xena.S01E12.Beware.Greeks.Bearing.Gifts.(DVD).SFM.srt"},
-    {"type":"file","name":"Xena.S01E13.Athens.City.Academy.Of.The.Performing.Bards.(DVD).SFM.srt"},
-    {"type":"file","name":"Xena.S01E14.A.Fistful.Of.Dinars.(DVD).SFM.srt"},
-    {"type":"file","name":"Xena.S01E15.Warrior.Princess.(DVD).SFM.srt"},
-    {"type":"file","name":"Xena.S01E16.Mortal.Beloved.(DVD).SFM.srt"},
-    {"type":"file","name":"Xena.S01E17.The.Royal.Couple.Of.Thieves.(DVD).SFM.srt"},
-    {"type":"file","name":"Xena.S01E18.The.Prodigal.(DVD).SFM.srt"},
-    {"type":"file","name":"Xena.S01E19.Altared.States.(DVD).SFM.srt"},
-    {"type":"file","name":"Xena.S01E20.Ties.That.Bind.(DVD).SFM.srt"},
-    {"type":"file","name":"Xena.S01E21.The.Greater.Good.(DVD).SFM.srt"},
-    {"type":"file","name":"Xena.S01E22.Callisto.(DVD).SFM.srt"},
-    {"type":"file","name":"Xena.S01E23.Death.Mask.(DVD).SFM.srt"},
-    {"type":"file","name":"Xena.S01E24.Is.There.A.Doctor.In.The.House.(DVD).SFM.srt"},
-    {"type":"file","name":"Xena.S06E01.Coming.Home.(DVD).Jem.srt"},
-    {"type":"file","name":"Xena.S06E02.The.Haunting.Of.Amphipolis.(DVD).Jem.srt"},
-    {"type":"file","name":"Xena.S06E03.Heart.Of.Darkness.(DVD).Jem.srt"},
-    {"type":"file","name":"Xena.S06E04.Whos.Gurkhan.(DVD).Jem.srt"},
-    {"type":"file","name":"Xena.S06E05.Legacy.(DVD).Jem.srt"},
-    {"type":"file","name":"Xena.S06E06.The.Abyss.(DVD).Jem.srt"},
-    {"type":"file","name":"Xena.S06E07.The.Rheingold.(DVD).Jem.srt"},
-    {"type":"file","name":"Xena.S06E08.The.Ring.(DVD).Jem.srt"},
-    {"type":"file","name":"Xena.S06E09.Return.Of.The.Valkyrie.(DVD).Jem.srt"},
-    {"type":"file","name":"Xena.S06E10.Old.Ares.Had.A.Farm.(DVD).Jem.srt"},
-    {"type":"file","name":"Xena.S06E11.Dangerous.Prey.(DVD).Jem.srt"},
-    {"type":"file","name":"Xena.S06E12.The.God.You.Know.(DVD).Jem.srt"},
-    {"type":"file","name":"Xena.S06E13.You.Are.There.(DVD).Jem.srt"},
-    {"type":"file","name":"Xena.S06E14.Path.Of.Vengeance.(DVD).Jem.srt"},
-    {"type":"file","name":"Xena.S06E15.To.Helicon.And.Back.(DVD).Jem.srt"},
-    {"type":"file","name":"Xena.S06E16.Send.In.The.Clones.(DVD).Jem.srt"},
-    {"type":"file","name":"Xena.S06E17.The.Last.Of.The.Centaurs.(DVD).Jem.srt"},
-    {"type":"file","name":"Xena.S06E18.When.Fates.Collide.(DVD).Jem.srt"},
-    {"type":"file","name":"Xena.S06E19.Many.Happy_Returns.(DVD).Jem.srt"},
-    {"type":"file","name":"Xena.S06E20.Soul.Possession.(DVD).Jem.srt"},
-    {"type":"file","name":"Xena.S06E21.Friend.In.Need.Part.1.(DVD).Jem.srt"},
-    {"type":"file","name":"Xena.S06E22.Friend.In.Need.Part.2.(DVD).Jem.srt"},
-    {"type":"file","name":"X-Files [1x00] - Pilot-Pi314.srt"},
-    {"type":"file","name":"X-Files [1x01] - Deep Throat-Pi314.srt"},
-    {"type":"file","name":"X-Files [1x02] - Squeeze-Pi314.srt"},
-    {"type":"file","name":"X-Files [1x03] - Conduit-Pi314.srt"},
-    {"type":"file","name":"X-Files [1x04] - The Jersey Devil-Pi314.srt"},
-    {"type":"file","name":"X-Files [1x05] - Shadows-Pi314.srt"},
-    {"type":"file","name":"X-Files [1x06] - Ghost in the Machine-Pi314.srt"},
-    {"type":"file","name":"X-Files [1x07] - Ice-Pi314.srt"},
-    {"type":"file","name":"X-Files [1x08] - Space-Pi314.srt"},
-    {"type":"file","name":"X-Files [1x09] - Fallen Angel-Pi314.srt"},
-    {"type":"file","name":"X-Files [1x10] - Eve-Pi314.srt"},
-    {"type":"file","name":"X-Files [1x11] - Fire-Pi314.srt"},
-    {"type":"file","name":"X-Files [1x12] - Beyond The Sea-Pi314.srt"},
-    {"type":"file","name":"X-Files [1x13] - Gender Bender-Pi314.srt"},
-    {"type":"file","name":"X-Files [1x14] - Lazarus-Pi314.srt"},
-    {"type":"file","name":"X-Files [1x15] - Young at Heart-Pi314.srt"},
-    {"type":"file","name":"X-Files [1x16] - E.B.E.-Pi314.srt"},
-    {"type":"file","name":"X-Files [1x17] - Miracle Man-Pi314.srt"},
-    {"type":"file","name":"X-Files [1x18] - Shapes-Pi314.srt"},
-    {"type":"file","name":"X-Files [1x19] - Darkness Falls-Pi314.srt"},
-    {"type":"file","name":"X-Files [1x20] - Tooms-Pi314.srt"},
-    {"type":"file","name":"X-Files [1x21] - Born Again-Pi314.srt"},
-    {"type":"file","name":"X-Files [1x22] - Roland-Pi314.srt"},
-    {"type":"file","name":"X-Files [1x23] - The Erlenmeyer Flask-Pi314.srt"},
-    {"type":"file","name":"X-Files [2x01] - Little Green Men-Pi314.srt"},
-    {"type":"file","name":"X-Files [2x02] - The Host-Pi314.srt"},
-    {"type":"file","name":"X-Files [2x03] - Blood-Pi314.srt"},
-    {"type":"file","name":"X-Files [2x04] - Sleepless-Pi314.srt"},
-    {"type":"file","name":"X-Files [2x05] - Duane Barry-Pi314.srt"},
-    {"type":"file","name":"X-Files [2x06] - Ascension-Pi314.srt"},
-    {"type":"file","name":"X-Files [2x07] - 3-Pi314.srt"},
-    {"type":"file","name":"X-Files [2x08] - One Breath-Pi314.srt"},
-    {"type":"file","name":"X-Files [2x09] - Firewalker-Pi314.srt"},
-    {"type":"file","name":"X-Files [2x10] - Red Museum-Pi314.srt"},
-    {"type":"file","name":"X-Files [2x11] - Excelsius Dei-Pi314.srt"},
-    {"type":"file","name":"X-Files [2x12] - Aubrey-Pi314.srt"},
-    {"type":"file","name":"X-Files [2x13] - Irresistible-Pi314.srt"},
-    {"type":"file","name":"X-Files [2x14] - Die Hand Die Verletzt-Pi314.srt"},
-    {"type":"file","name":"X-Files [2x15] - Fresh Bones-Pi314.srt"},
-    {"type":"file","name":"X-Files [2x16] - Colony-Pi314.srt"},
-    {"type":"file","name":"X-Files [2x17] - End Game-Pi314.srt"},
-    {"type":"file","name":"X-Files [2x18] - Fearful Symmetry-Pi314.srt"},
-    {"type":"file","name":"X-Files [2x19] - Dod Kalm-Pi314.srt"},
-    {"type":"file","name":"X-Files [2x20] - Humbug-Pi314.srt"},
-    {"type":"file","name":"X-Files [2x21] - The Calusari-Pi314.srt"},
-    {"type":"file","name":"X-Files [2x22] - F. Emasculata-Pi314.srt"},
-    {"type":"file","name":"X-Files [2x23] - Soft Light-Pi314.srt"},
-    {"type":"file","name":"X-Files [2x24] - Our town-Pi314.srt"},
-    {"type":"file","name":"X-Files [2x25] - Anasazi-Pi314.srt"},
-    {"type":"file","name":"X-Files [3x01] - The Blessing Way.srt"},
-    {"type":"file","name":"X-Files [3x02] - Paper Clip.srt"},
-    {"type":"file","name":"X-Files [3x03] - D.P.O.srt"},
-    {"type":"file","name":"X-Files [3x04] - Clyde Bruckman's Final Repose.srt"},
-    {"type":"file","name":"X-Files [3x05] - The List.srt"},
-    {"type":"file","name":"X-Files [3x06] - 2Shy.srt"},
-    {"type":"file","name":"X-Files [3x07] - The Walk.srt"},
-    {"type":"file","name":"X-Files [3x08] - Oubliette.srt"},
-    {"type":"file","name":"X-Files [3x09] - Nisei.srt"},
-    {"type":"file","name":"X-Files [3x10] - 731.srt"},
-    {"type":"file","name":"X-Files [3x11] - Revelations.srt"},
-    {"type":"file","name":"X-Files [3x12] - War of the Coprophages.srt"},
-    {"type":"file","name":"X-Files [3x13] - Syzygy.srt"},
-    {"type":"file","name":"X-Files [3x14] - Grotesque.srt"},
-    {"type":"file","name":"X-Files [3x15] - Piper Maru.srt"},
-    {"type":"file","name":"X-Files [3x16] - Apocrypha.srt"},
-    {"type":"file","name":"X-Files [3x17] - Pusher.srt"},
-    {"type":"file","name":"X-Files [3x18] - Teso Dos Bichos.srt"},
-    {"type":"file","name":"X-Files [3x19] - Hell Money.srt"},
-    {"type":"file","name":"X-Files [3x20] - Jose Chung's From Outer Space.srt"},
-    {"type":"file","name":"X-Files [3x21] - Avatar.srt"},
-    {"type":"file","name":"X-Files [3x22] - Quagmire.srt"},
-    {"type":"file","name":"X-Files [3x23] - Wetwired.srt"},
-    {"type":"file","name":"X-Files [3x24] - Talitha Cumi.srt"},
-    {"type":"file","name":"X-Files 4-01 - Herrenvolk.srt"},
-    {"type":"file","name":"X-Files 4-02 - Home.srt"},
-    {"type":"file","name":"X-Files 4-03 - Teliko.srt"},
-    {"type":"file","name":"X-Files 4-04 - Unruhe.srt"},
-    {"type":"file","name":"X-Files 4-05 - The Field Where I Died.srt"},
-    {"type":"file","name":"X-Files 4-06 - Sanguinarium.srt"},
-    {"type":"file","name":"X-Files 4-07 - Musings Of A Cigarette-Smoking Man.srt"},
-    {"type":"file","name":"X-Files 4-08 - Tunguska.srt"},
-    {"type":"file","name":"X-Files 4-09 - Terma.srt"},
-    {"type":"file","name":"X-Files 4-10 - Paper Hearts.srt"},
-    {"type":"file","name":"X-Files 4-11 - El Mundo Gira.srt"},
-    {"type":"file","name":"X-Files 4-12 - Leonard Betts.srt"},
-    {"type":"file","name":"X-Files 4-13 - Never Again.srt"},
-    {"type":"file","name":"X-Files 4-14 - Memento Mori.srt"},
-    {"type":"file","name":"X-Files 4-15 - Kaddish.srt"},
-    {"type":"file","name":"X-Files 4-16 - Unrequited.srt"},
-    {"type":"file","name":"X-Files 4-17 - Tempus Fugit.srt"},
-    {"type":"file","name":"X-Files 4-18 - Max.srt"},
-    {"type":"file","name":"X-Files 4-19 - Synchrony.srt"},
-    {"type":"file","name":"X-Files 4-20 - Small Potatoes.srt"},
-    {"type":"file","name":"X-Files 4-21 - Zero.Sum.srt"},
-    {"type":"file","name":"X-Files 4-22 - Elegy.srt"},
-    {"type":"file","name":"X-Files 4-23 - Demons.srt"},
-    {"type":"file","name":"X-Files 4-24 - Gethsemane.srt"},
-    {"type":"file","name":"X-Files [5x01] - Redux.srt"},
-    {"type":"file","name":"X-Files [5x02] - Redux II.srt"},
-    {"type":"file","name":"X-Files [5x03] - Unusual Suspects.srt"},
-    {"type":"file","name":"X-Files [5x04] - Detour.srt"},
-    {"type":"file","name":"X-Files [5x05] - Post-Modern Prometheus.srt"},
-    {"type":"file","name":"X-Files [5x06] - Christmas Carol.srt"},
-    {"type":"file","name":"X-Files [5x07] - Emily.srt"},
-    {"type":"file","name":"X-Files [5x08] - Kitsunegari.srt"},
-    {"type":"file","name":"X-Files [5x09] - Schizogeny.srt"},
-    {"type":"file","name":"X-Files [5x10] - Chinga.srt"},
-    {"type":"file","name":"X-Files [5x11] - Kill Switch.srt"},
-    {"type":"file","name":"X-Files [5x12] - Bad Blood.srt"},
-    {"type":"file","name":"X-Files [5x13] - Patient X.srt"},
-    {"type":"file","name":"X-Files [5x14] - The Red and the Black.srt"},
-    {"type":"file","name":"X-Files [5x15] - Travelers.srt"},
-    {"type":"file","name":"X-Files [5x16] - Mind's Eye.srt"},
-    {"type":"file","name":"X-Files [5x17] - All Souls.srt"},
-    {"type":"file","name":"X-Files [5x18] - The Pine Bluff Variant.srt"},
-    {"type":"file","name":"X-Files [5x19] - Folie a Deux.srt"},
-    {"type":"file","name":"X-Files [5x20] - The End.srt"},
-    {"type":"file","name":"X-Files [6x01] - The Beginning.srt"},
-    {"type":"file","name":"X-Files [6x02] - Drive.srt"},
-    {"type":"file","name":"X-Files [6x03] - Triangle.srt"},
-    {"type":"file","name":"X-Files [6x04] - Dreamland.srt"},
-    {"type":"file","name":"X-Files [6x05] - Dreamland II.srt"},
-    {"type":"file","name":"X-Files [6x06] - How The Ghosts Stole Christmas.srt"},
-    {"type":"file","name":"X-Files [6x07] - Terms Of Endearment.srt"},
-    {"type":"file","name":"X-Files [6x08] - The Rain King.srt"},
-    {"type":"file","name":"X-Files [6x09] - S.R. 819.srt"},
-    {"type":"file","name":"X-Files [6x10] - Tithonus.srt"},
-    {"type":"file","name":"X-Files [6x11] - Two Fathers.srt"},
-    {"type":"file","name":"X-Files [6x12] - One Son.srt"},
-    {"type":"file","name":"X-Files [6x13] - Agua Mala.srt"},
-    {"type":"file","name":"X-Files [6x14] - Monday.srt"},
-    {"type":"file","name":"X-Files [6x15] - Arcadia.srt"},
-    {"type":"file","name":"X-Files [6x16] - Alpha.srt"},
-    {"type":"file","name":"X-Files [6x17] - Trevor.srt"},
-    {"type":"file","name":"X-Files [6x18] - Milagro.srt"},
-    {"type":"file","name":"X-Files [6x19] - The Unatural.srt"},
-    {"type":"file","name":"X-Files [6x20] - Three Of A Kind.srt"},
-    {"type":"file","name":"X-Files [6x21] - Field Trip.srt"},
-    {"type":"file","name":"X-Files [6x22] - Biogenesis.srt"},
-    {"type":"file","name":"X-Files [7x01] - The Sixth Extinction.srt"},
-    {"type":"file","name":"X-Files [7x02] - The Sixth Extinction II - Amor Fati.srt"},
-    {"type":"file","name":"X-Files [7x03] - Hungry.srt"},
-    {"type":"file","name":"X-Files [7x04] - Millennium.srt"},
-    {"type":"file","name":"X-Files [7x05] - Rush.srt"},
-    {"type":"file","name":"X-Files [7x06] - The Goldberg Variation.srt"},
-    {"type":"file","name":"X-Files [7x07] - Orison.srt"},
-    {"type":"file","name":"X-Files [7x08] - The Amazing Maleeni.srt"},
-    {"type":"file","name":"X-Files [7x09] - Signs And Wonders.srt"},
-    {"type":"file","name":"X-Files [7x10] - Sein Und Zeit.srt"},
-    {"type":"file","name":"X-Files [7x11] - Closure.srt"},
-    {"type":"file","name":"X-Files [7x12] - X-COPS.srt"},
-    {"type":"file","name":"X-Files [7x13] - First Person Shooter.srt"},
-    {"type":"file","name":"X-Files [7x14] - Theef.srt"},
-    {"type":"file","name":"X-Files [7x15] - En Ami.srt"},
-    {"type":"file","name":"X-Files [7x16] - Chimera.srt"},
-    {"type":"file","name":"X-Files [7x17] - All Things.srt"},
-    {"type":"file","name":"X-Files [7x18] - Brand X.srt"},
-    {"type":"file","name":"X-Files [7x19] - Hollywood A.D.srt"},
-    {"type":"file","name":"X-Files [7x20] - Fight Club.srt"},
-    {"type":"file","name":"X-Files [7x21] - Je Souhaite.srt"},
-    {"type":"file","name":"X-Files [7x22] - Requiem.srt"},
-    {"type":"file","name":"X-Files [8x01] - Within.srt"},
-    {"type":"file","name":"X-Files [8x02] - Without.srt"},
-    {"type":"file","name":"X-Files [8x03] - Patience.srt"},
-    {"type":"file","name":"X-Files [8x04] - Roadrunners.srt"},
-    {"type":"file","name":"X-Files [8x05] - Invocation.srt"},
-    {"type":"file","name":"X-Files [8x06] - Redrum.srt"},
-    {"type":"file","name":"X-Files [8x07] - Via Negativa.srt"},
-    {"type":"file","name":"X-Files [8x08] - Surekill.srt"},
-    {"type":"file","name":"X-Files [8x09] - Salvage.srt"},
-    {"type":"file","name":"X-Files [8x10] - Badlaa.srt"},
-    {"type":"file","name":"X-Files [8x11] - The Gift.srt"},
-    {"type":"file","name":"X-Files [8x12] - Medusa.srt"},
-    {"type":"file","name":"X-Files [8x13] - Per Manum.srt"},
-    {"type":"file","name":"X-Files [8x14] - This is not Happening.srt"},
-    {"type":"file","name":"X-Files [8x15] - Deadalive.srt"},
-    {"type":"file","name":"X-Files [8x16] - Three Words.srt"},
-    {"type":"file","name":"X-Files [8x17] - Empedocles.srt"},
-    {"type":"file","name":"X-Files [8x18] - Vienen.srt"},
-    {"type":"file","name":"X-Files [8x19] - Alone.srt"},
-    {"type":"file","name":"X-Files [8x20] - Essence.srt"},
-    {"type":"file","name":"X-Files [8x21] - Existence.srt"},
-    {"type":"file","name":"X-Files [e-links].txt"},
-    {"type":"file","name":"Xich.lo.(aka.Cyclo).1995.DVDRip.DivX3LM-QiX.CD1.srt"},
-    {"type":"file","name":"Xich.lo.(aka.Cyclo).1995.DVDRip.DivX3LM-QiX.CD2.srt"},
-    {"type":"file","name":"XIII.2008.Miniseries.Part.1.DVDRip.XviD-aAF.srt"},
-    {"type":"file","name":"XIII.2008.Miniseries.Part.2.DVDRip.XviD-aAF.srt"},
-    {"type":"file","name":"XIII.The.Series.2011.S01E02.Green.Falls.720p.WEB-DL.AVC-iON-CC.srt"},
-    {"type":"file","name":"XIII.The.Series.2011.S01E02.Green.Falls.720p.WEB-DL.AVC-iON.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E01.Pilot.720p.WEB-DL.AVC-iON-CC.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E01.Pilot.720p.WEB-DL.AVC-iON.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E01.Pilot.WS.XviD-err0001-CC.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E01.Pilot.WS.XviD-err0001.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E02.Green.Falls.WS.XviD-err0001-CC.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E02.Green.Falls.WS.XviD-err0001.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E03.Lockdown.720p.WEB-DL.AVC-iON-CC.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E03.Lockdown.720p.WEB-DL.AVC-iON.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E03.Lockdown.WS.XviD-err0001-CC.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E03.Lockdown.WS.XviD-err0001.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E04.The.Irish.Version.720p.WEB-DL.AVC-iON-CC.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E04.The.Irish.Version.720p.WEB-DL.AVC-iON.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E04.The.Irish.Version.WS.XviD-err0001-CC.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E04.The.Irish.Version.WS.XviD-err0001.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E05.Training.Camp.720p.WEB-DL.AVC-iON-CC.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E05.Training.Camp.720p.WEB-DL.AVC-iON.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E05.Training.Camp.WS.XviD-err0001-CC.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E05.Training.Camp.WS.XviD-err0001.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E06.Costa.Verde.720p.WEB-DL.AVC-iON-CC.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E06.Costa.Verde.720p.WEB-DL.AVC-iON.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E06.Costa.Verde.WS.XviD-err0001-CC.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E06.Costa.Verde.WS.XviD-err0001.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E07.Undertow.720p.WEB-DL.AVC-iON-CC.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E07.Undertow.720p.WEB-DL.AVC-iON.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E07.Undertow.WS.XviD-err0001-CC.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E07.Undertow.WS.XviD-err0001.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E08.Hunting.Party.720p.WEB-DL.AVC-iON-CC.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E08.Hunting.Party.720p.WEB-DL.AVC-iON.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E08.Hunting.Party.WS.XviD-err0001-CC.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E08.Hunting.Party.WS.XviD-err0001.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E09.The.Bank.Job.720p.WEB-DL.AVC-iON-CC.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E09.The.Bank.Job.720p.WEB-DL.AVC-iON.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E09.The.Bank.Job.WS.XviD-err0001-CC.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E09.The.Bank.Job.WS.XviD-err0001.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E10.The.Train.720p.WEB-DL.AVC-iON-CC.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E10.The.Train.720p.WEB-DL.AVC-iON.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E10.The.Train.WS.XviD-err0001-CC.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E10.The.Train.WS.XviD-err0001.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E11.The.Bunker.720p.WEB-DL.AVC-iON-CC.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E11.The.Bunker.720p.WEB-DL.AVC-iON.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E11.The.Bunker.WS.XviD-err0001-CC.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E11.The.Bunker.WS.XviD-err0001.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E12.The.Key.720p.WEB-DL.AVC-iON-CC.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E12.The.Key.720p.WEB-DL.AVC-iON.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E12.The.Key.WS.XviD-err0001-CC.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E12.The.Key.WS.XviD-err0001.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E13.Revelation.720p.WEB-DL.AVC-iON-CC.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E13.Revelation.720p.WEB-DL.AVC-iON.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E13.Revelation.WS.XviD-err0001-CC.srt"},
-    {"type":"file","name":"XIII.The.Series.S01E13.Revelation.WS.XviD-err0001.srt"},
-    {"type":"file","name":"X-Men Evolution - Enemies Unveiled (2000) .srt"},
-    {"type":"file","name":"X.Men.2000.720p.BluRay.x264-BestHD.srt"},
-    {"type":"file","name":"X-Men_(2000).CD1.SBC.AC3.Sharereactor.srt"},
-    {"type":"file","name":"X-Men_(2000).CD2.SBC.AC3.Sharereactor.srt"},
-    {"type":"file","name":"X-Men.3.The.Last.Stand.2006.720p.BDRip.DTS.x264-SiLU.srt"},
-    {"type":"file","name":"X-Men.Apocalypse.2016.3D.1080p.BluRay.x264-VALUE.srt"},
-    {"type":"file","name":"X-Men.Apocalypse.2016.PROPER.720p.BluRay.x264-Felony.srt"},
-    {"type":"file","name":"X-Men.Apocalypse.2016.PROPER.BDRip.x264-Larceny.srt"},
-    {"type":"file","name":"X-Men.Apocalypse.2016.PROPER.REPACK.1080p.BluRay.x264-SECTOR7.srt"},
-    {"type":"file","name":"X-Men.Days.of.Future.Past.2014.1080p.BluRay.X264-AMIABLE.srt"},
-    {"type":"file","name":"X-Men.Days.of.Future.Past.2014.3D.1080p.BluRay.Half-SBS.x264.DTS-HD.MA.7.1-RARBG.srt"},
-    {"type":"file","name":"X-Men.Days.of.Future.Past.2014.720p.BluRay.X264-AMIABLE.srt"},
-    {"type":"file","name":"X-Men.Days.of.Future.Past.2014.BRRip.XviD.AC3-SANTi.srt"},
-    {"type":"file","name":"X-Men.Days.of.Future.Past.2014.DVDRip.XviD.AC3-EVO.srt"},
-    {"type":"file","name":"X-Men.Days.of.Future.Past.2014.THE.ROGUE.CUT.1080p.BluRay.x264-SADPANDA.srt"},
-    {"type":"file","name":"X-Men.Days.of.Future.Past.2014.THE.ROGUE.CUT.720p.BluRay.x264-SADPANDA.srt"},
-    {"type":"file","name":"X-Men.Days.Of.Future.Past.2014.THE.ROGUE.CUT.BDRip.x264-VoMiT.srt"},
-    {"type":"file","name":"X-Men_Evolution_-_1x01_-_Strategy_X_(DVDRip.640x480.eng)[ms].srt"},
-    {"type":"file","name":"X-Men_Evolution_-_1x02_-_The_X-Impulse_(DVDRip.640x480.eng)[ms].srt"},
-    {"type":"file","name":"X-Men_Evolution_-_1x03_-_Rogue_Recruit_(DVDRip.640x480.eng)[ms].srt"},
-    {"type":"file","name":"X-Men_Evolution_-_1x04_-_Mutant_Crush_(DVDRip.640x480.eng)[ms].srt"},
-    {"type":"file","name":"X-Men_Evolution_-_1x05_-_Speed_and_Spyke_(DVDRip.640x480.eng)[ms].srt"},
-    {"type":"file","name":"X-Men_Evolution_-_1x06_-_Middleverse_(DVDRip.640x480.eng)[ms].srt"},
-    {"type":"file","name":"X-Men_Evolution_-_1x07_-_Turn_of_the_Rogue_(DVDRip.640x480.eng)[ms].srt"},
-    {"type":"file","name":"X-Men_Evolution_-_1x08_-_Spyke_Cam_(DVDRip.640x480.eng)[ms].srt"},
-    {"type":"file","name":"X-Men_Evolution_-_1x09_-_Survival_of_the_Fittest_(DVDRip.640x480.eng)[ms].srt"},
-    {"type":"file","name":"X-Men_Evolution_-_1x10_-_Shadowed_Past_(DVDRip.640x480.eng)[ms].srt"},
-    {"type":"file","name":"X-Men_Evolution_-_1x11_-_Grim_Reminder_(DVDRip.640x480.eng)[ms].srt"},
-    {"type":"file","name":"X-Men_Evolution_-_1x12,13_-_The_Cauldron_(DVDRip.640x480.eng)[ms].srt"},
-    {"type":"file","name":"X-Men_Evolution_-_2x01_-_Growing_Pains_(DVDRip.640x480.eng)[ms].srt"},
-    {"type":"file","name":"X-Men_Evolution_-_2x02_-_Power_Surge_(DVDRip.640x480.eng)[ms].srt"},
-    {"type":"file","name":"X-Men_Evolution_-_2x03_-_Bada-Bing_Bada-Boom_(DVDRip.640x480.eng)[ms].srt"},
-    {"type":"file","name":"X-Men_Evolution_-_2x04_-_Fun_and_Games_(DVDRip.640x480.eng)[ms]..srt"},
-    {"type":"file","name":"X-Men_Evolution_-_2x05_-_The_Beast_of_Bayville_(DVDRip.640x480.eng)[ms].srt"},
-    {"type":"file","name":"X-Men_Evolution_-_2x06_-_Adrift_(DVDRip.640x480.eng)[ms].srt"},
-    {"type":"file","name":"X-Men_Evolution_-_2x07_-_On_Angel's_Wings_(DVDRip.640x480.eng)[ms].srt"},
-    {"type":"file","name":"X-Men_Evolution_-_2x08_-_African_Storm_(DVDRip.640x480.eng)[ms].srt"},
-    {"type":"file","name":"X-Men_Evolution_-_2x09_-_Joyride_(DVDRip.640x480.eng)[ms].srt"},
-    {"type":"file","name":"X-Men_Evolution_-_2x10_-_Walk_on_the_Wild_Side_(DVDRip.640x480.eng)[ms].srt"},
-    {"type":"file","name":"X-Men_Evolution_-_2x11_-_Operation_Rebirth_(DVDRip.640x480.eng)[ms].srt"},
-    {"type":"file","name":"X-Men_Evolution_-_2x12_-_Mindbender_(DVDRip.640x480.eng)[ms].srt"},
-    {"type":"file","name":"X-Men_Evolution_-_2x13_-_Shadow_Dance_(DVDRip.640x480.eng)[ms].srt"},
-    {"type":"file","name":"X-Men_Evolution_-_2x14_-_Retreat_(DVDRip.640x480.eng)[ms].srt"},
-    {"type":"file","name":"X-Men_Evolution_-_2x15_-_The_HeX_Factor_(DVDRip.640x480.eng)[ms].srt"},
-    {"type":"file","name":"X-Men_Evolution_-_2x16-17_-_Day_of_Reckoning_(DVDRip.640x480.eng)[ms].srt"},
-    {"type":"file","name":"X-Men.First.Class.2011.576p.BRRip.XviD.AC3-WHiiZz.srt"},
-    {"type":"file","name":"X-Men.First.Class.2011.720p.BluRay.x264-Felony.srt"},
-    {"type":"file","name":"X-Men.First.Class.2011.BluRay.1080p.DTS.x264-CHD.srt"},
-    {"type":"file","name":"X-Men.First.Class.2011.BluRay.720p.DTS.x264-CHD.srt"},
-    {"type":"file","name":"X-Men.First.Class.2011.BluRay.720p.x264.DTS-HDChina.srt"},
-    {"type":"file","name":"X-Men.First.Class.2011.R5.LiNE.READNFO.XviD-IMAGiNE.srt"},
-    {"type":"file","name":"X-Men.First.Class.BDRip.XviD-TARGET.cd1.srt"},
-    {"type":"file","name":"X-Men.First.Class.BDRip.XviD-TARGET.cd2.srt"},
-    {"type":"file","name":"X-Men.Origins.Wolverine.2009.DVDrip.XviD.AC3-TMR.srt"},
-    {"type":"file","name":"X-Men.Origins.Wolverine.720p.BluRay.x264.REPACK-METiS.srt"},
-    {"type":"file","name":"X-Men.Origins.Wolverine.DVDRip.XviD.AC3-DEViSE.srt"},
-    {"type":"file","name":"X-Men.Origins.Wolverine.DVDRip.XviD-JUAMNJi.srt"},
-    {"type":"file","name":"X.Men.The.Last.Stand.2006.1080p.BluRay.x264.DTS-ES.PRoDJi.srt"},
-    {"type":"file","name":"X-Men.The.Last.Stand.2006.DVDRip.XviD.AC3.CD1-JUPiT.srt"},
-    {"type":"file","name":"X-Men.The.Last.Stand.2006.DVDRip.XviD.AC3.CD2-JUPiT.srt"},
-    {"type":"file","name":"X-Men.The.Last.Stand.PROPER.DVDRip.XviD-DoNE.srt"},
-    {"type":"file","name":"X.Plus.Y.2014.BRRip.XviD.AC3-EVO.srt"},
-    {"type":"file","name":"X.Plus.Y.2014.LIMITED.1080p.BluRay.X264-AMIABLE.srt"},
-    {"type":"file","name":"X.Plus.Y.2014.LIMITED.720p.BluRay.X264-AMIABLE.srt"},
-    {"type":"file","name":"XX.2017.LIMITED.1080p.BluRay.x264-DRONES.srt"},
-    {"type":"file","name":"XX.2017.LIMITED.720p.BluRay.x264-DRONES.srt"},
-    {"type":"file","name":"XX.2017.LIMITED.BDRip.x264-DRONES.srt"},
-    {"type":"file","name":"xXx.2002.720p.BluRay.x264.AC3.5.1-DEFiNiTiON.srt"}
+    {"type":"directory","name":"X.(2022)-aRGENTeaM-88278","contents":[
+      {"type":"file","name":"X.2022.720p.BluRay.x264-PiGNUS.srt"}
+    ]},
+    {"type":"directory","name":"X.(2022)-aRGENTeaM-88279","contents":[
+      {"type":"file","name":"X.2022.1080p.BluRay.x264-PiGNUS.srt"}
+    ]},
+    {"type":"directory","name":"X2(2003)-aRGENTeaM-18503","contents":[
+      {"type":"file","name":"X2.2003.DVDRip.XviD.AC3-C00LdUdE.srt"}
+    ]},
+    {"type":"directory","name":"X2(2003)-aRGENTeaM-18504","contents":[
+      {"type":"file","name":"X2.2003.720p.BluRay.x264-BestHD.srt"}
+    ]},
+    {"type":"directory","name":"X2(2003)-aRGENTeaM-18505","contents":[
+      {"type":"file","name":"X2.X-Men.United.PROPER.DVDRip.XViD-DVL.CD1.srt"},
+      {"type":"file","name":"X2.X-Men.United.PROPER.DVDRip.XViD-DVL.CD2.srt"}
+    ]},
+    {"type":"directory","name":"X2(2003)-aRGENTeaM-945","contents":[
+      {"type":"file","name":"X2.2003.PROPER.DVDRip.AC3.XviD-DVL.CD1.srt"},
+      {"type":"file","name":"X2.2003.PROPER.DVDRip.AC3.XviD-DVL.CD2.srt"}
+    ]},
+    {"type":"directory","name":"X.Change(2000)-aRGENTeaM-750","contents":[
+      {"type":"file","name":"Xchange.2000.DVDRip.DivX-TRiPDivX.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess(101-124)(1995)-aRGENTeaM-2418","contents":[
+      {"type":"file","name":"Xena-1x01-Sins_Of_The_Past_Esp.srt"},
+      {"type":"file","name":"Xena-1x02-Chariots_Of_War_Esp.srt"},
+      {"type":"file","name":"Xena-1x03-Dreamworker_Esp.srt"},
+      {"type":"file","name":"Xena-1x04-Cradle_Of_Hope_Esp.srt"},
+      {"type":"file","name":"Xena-1x05-The_Path_Not_Taken_Esp.srt"},
+      {"type":"file","name":"Xena-1x06-The_Reckoning_Esp.srt"},
+      {"type":"file","name":"Xena-1x07-The_Titans_Esp.srt"},
+      {"type":"file","name":"Xena-1x08-Prometheus_Esp.srt"},
+      {"type":"file","name":"Xena-1x09-Death_In_Chains_Esp.srt"},
+      {"type":"file","name":"Xena-1x10-Hooves_And_Harlots_Esp.srt"},
+      {"type":"file","name":"Xena-1x11-The_Black_Wolf_Esp.srt"},
+      {"type":"file","name":"Xena-1x12-Beware_Greeks_Bearing_Gifts_Esp.srt"},
+      {"type":"file","name":"Xena-1x13-Athens_City_Academy_Of_The_Performing_Bards_Esp.srt"},
+      {"type":"file","name":"Xena-1x14-A_Fistful_Of_Dinars_Esp.srt"},
+      {"type":"file","name":"Xena-1x15-Warrior_Princess_Esp.srt"},
+      {"type":"file","name":"Xena-1x16-Mortal_Beloved_Esp.srt"},
+      {"type":"file","name":"Xena-1x17-The_Royal_Couple_Of_Thieves_Esp.srt"},
+      {"type":"file","name":"Xena-1x18-The_Prodigal_Esp.srt"},
+      {"type":"file","name":"Xena-1x19-Altared_States_Esp.srt"},
+      {"type":"file","name":"Xena-1x20-Ties_That_Bind_Esp.srt"},
+      {"type":"file","name":"Xena-1x21-The_Greater_Good_Esp.srt"},
+      {"type":"file","name":"Xena-1x22-Callisto_Esp.srt"},
+      {"type":"file","name":"Xena-1x23-Death_Mask_Esp.srt"},
+      {"type":"file","name":"Xena-1x24-Is_There_A_Doctor_In_The_House_Esp.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S01E01-Sins.of.the.Past-aRGENTeaM-37229","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S01E01.Sins.Of.The.Past.(DVD).SFM.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S01E02-Chariots.of.War-aRGENTeaM-37230","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S01E02.Chariots.Of.War.(DVD).SFM.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S01E03-Dreamworker-aRGENTeaM-37231","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S01E03.Dreamworker.(DVD).SFM.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S01E04-Cradle.of.Hope-aRGENTeaM-37232","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S01E04.Cradle.Of.Hope.(DVD).SFM.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S01E05-The.Path.Not.Taken-aRGENTeaM-37233","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S01E05.The.Path.Not.Taken.(DVD).SFM.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S01E06-The.Reckoning-aRGENTeaM-37234","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S01E06.The.Reckoning.(DVD).SFM.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S01E07-The.Titans-aRGENTeaM-37235","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S01E07.The.Titans.(DVD).SFM.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S01E08-Prometheus-aRGENTeaM-37236","contents":[
+      {"type":"file","name":"Xena.S01E08.Prometheus.(DVD).SFM.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S01E09-Death.in.Chains-aRGENTeaM-37237","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S01E09.Death.In.Chains.(DVD).SFM.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S01E10-Hooves.Harlots-aRGENTeaM-37238","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S01E10.Hooves.And.Harlots.(DVD).SFM.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S01E11-The.Black.Wolf-aRGENTeaM-37239","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S01E11.The.Black.Wolf.(DVD).SFM.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S01E12-Beware.Greeks.Bearing.Gifts-aRGENTeaM-37240","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S01E12.Beware.Greeks.Bearing.Gifts.(DVD).SFM.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S01E13-Athens.City.Academy.of.the.Performing.Bards-aRGENTeaM-37241","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S01E13.Athens.City.Academy.Of.The.Performing.Bards.(DVD).SFM.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S01E14-A.Fistful.of.Dinars-aRGENTeaM-37242","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S01E14.A.Fistful.Of.Dinars.(DVD).SFM.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S01E15-Warrior.Princess-aRGENTeaM-37243","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S01E15.Warrior.Princess.(DVD).SFM.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S01E16-Mortal.Beloved-aRGENTeaM-37244","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S01E16.Mortal.Beloved.(DVD).SFM.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S01E17-The.Royal.Couple.of.Thieves-aRGENTeaM-37245","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S01E17.The.Royal.Couple.Of.Thieves.(DVD).SFM.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S01E18-The.Prodigal-aRGENTeaM-37246","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S01E18.The.Prodigal.(DVD).SFM.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S01E19-Altared.States-aRGENTeaM-37247","contents":[
+      {"type":"file","name":"Xena.S01E19.Altared.States.(DVD).SFM.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S01E20-Ties.That.Bind-aRGENTeaM-37248","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S01E20.Ties.That.Bind.(DVD).SFM.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S01E21-The.Greater.Good-aRGENTeaM-37249","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S01E21.The.Greater.Good.(DVD).SFM.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S01E22-Callisto-aRGENTeaM-37250","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S01E22.Callisto.(DVD).SFM.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S01E23-Death.Mask-aRGENTeaM-37251","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S01E23.Death.Mask.(DVD).SFM.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S01E24-Is.There.A.Doctor.in.the.House-aRGENTeaM-37252","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S01E24.Is.There.A.Doctor.In.The.House.(DVD).SFM.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S06E01-Coming.Home-aRGENTeaM-37253","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S06E01.Coming.Home.(DVD).Jem.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S06E02-The.Haunting.of.Amphipolis.(1)-aRGENTeaM-37254","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S06E02.The.Haunting.Of.Amphipolis.(DVD).Jem.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S06E03-Heart.of.Darkness.(2)-aRGENTeaM-37255","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S06E03.Heart.Of.Darkness.(DVD).Jem.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S06E04-Whos.Gurkhan-aRGENTeaM-37256","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S06E04.Whos.Gurkhan.(DVD).Jem.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S06E05-Legacy-aRGENTeaM-37257","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S06E05.Legacy.(DVD).Jem.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S06E06-The.Abyss-aRGENTeaM-37258","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S06E06.The.Abyss.(DVD).Jem.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S06E07-The.Rheingold.(1)-aRGENTeaM-37259","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S06E07.The.Rheingold.(DVD).Jem.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S06E08-The.Ring.(2)-aRGENTeaM-37260","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S06E08.The.Ring.(DVD).Jem.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S06E09-Return.of.the.Valkyrie.(3)-aRGENTeaM-37261","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S06E09.Return.Of.The.Valkyrie.(DVD).Jem.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S06E10-Old.Ares.Had.A.Farm-aRGENTeaM-37262","contents":[
+      {"type":"file","name":"Xena.S06E10.Old.Ares.Had.A.Farm.(DVD).Jem.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S06E11-Dangerous.Prey-aRGENTeaM-37263","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S06E11.Dangerous.Prey.(DVD).Jem.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S06E12-The.God.You.Know-aRGENTeaM-37264","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S06E12.The.God.You.Know.(DVD).Jem.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S06E13-You.Are.There-aRGENTeaM-37265","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S06E13.You.Are.There.(DVD).Jem.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S06E14-Path.of.Vengeance-aRGENTeaM-37266","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S06E14.Path.Of.Vengeance.(DVD).Jem.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S06E15-To.Helicon.and.Back-aRGENTeaM-37267","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S06E15.To.Helicon.And.Back.(DVD).Jem.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S06E16-Send.in.the.Clones-aRGENTeaM-37268","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S06E16.Send.In.The.Clones.(DVD).Jem.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S06E17-The.Last.of.the.Centaurs-aRGENTeaM-37269","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S06E17.The.Last.Of.The.Centaurs.(DVD).Jem.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S06E18-When.Fates.Collide-aRGENTeaM-37270","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S06E18.When.Fates.Collide.(DVD).Jem.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S06E19-Many.Happy.Returns-aRGENTeaM-37271","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S06E19.Many.Happy_Returns.(DVD).Jem.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S06E20-Soul.Possession-aRGENTeaM-37272","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S06E20.Soul.Possession.(DVD).Jem.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S06E21-Friend.in.Need.(1)-aRGENTeaM-37273","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S06E21.Friend.In.Need.Part.1.(DVD).Jem.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S06E22-Friend.in.Need.(2)-aRGENTeaM-37274","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena.S06E22.Friend.In.Need.Part.2.(DVD).Jem.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess.(1995).S06E22-Friend.in.Need.(2)-aRGENTeaM-37275","contents":[
+      {"type":"directory","name":"__MACOSX"},
+      {"type":"file","name":"Xena-6x21-22-A_Friend_In_Need_Director's_Cut_Esp.srt"}
+    ]},
+    {"type":"directory","name":"Xena.Warrior.Princess(601-622)(1995)-aRGENTeaM-2419","contents":[
+      {"type":"file","name":"Xena-6x01-Coming_Home_Esp.srt"},
+      {"type":"file","name":"Xena-6x02-The_Haunting_Of_Amphipolis_Esp.srt"},
+      {"type":"file","name":"Xena-6x03-Heart_Of_Darkness_Esp.srt"},
+      {"type":"file","name":"Xena-6x04-Who's_Gurkhan_Esp.srt"},
+      {"type":"file","name":"Xena-6x05-Legacy_Esp.srt"},
+      {"type":"file","name":"Xena-6x06-The_Abyss_Esp.srt"},
+      {"type":"file","name":"Xena-6x07-The_Rheingold_Esp.srt"},
+      {"type":"file","name":"Xena-6x08-The_Ring_Esp.srt"},
+      {"type":"file","name":"Xena-6x09-Return_Of_The_Valkyrie_Esp.srt"},
+      {"type":"file","name":"Xena-6x10-Old_Ares_Had_A_Farm_Esp.srt"},
+      {"type":"file","name":"Xena-6x11-Dangerous_Prey_Esp.srt"},
+      {"type":"file","name":"Xena-6x12-The_God_You_Know_Esp.srt"},
+      {"type":"file","name":"Xena-6x13-You_Are_There_Esp.srt"},
+      {"type":"file","name":"Xena-6x14-Path_Of_Vengeance_Esp.srt"},
+      {"type":"file","name":"Xena-6x15-To_Helicon_And_Back_Esp.srt"},
+      {"type":"file","name":"Xena-6x16-Send_In_The_Clones_Esp.srt"},
+      {"type":"file","name":"Xena-6x17-Last_Of_The_Centaurs_Esp.srt"},
+      {"type":"file","name":"Xena-6x18-When_Fates_Collide_Esp.srt"},
+      {"type":"file","name":"Xena-6x19-Many_Happy_Returns_Esp.srt"},
+      {"type":"file","name":"Xena-6x20-Soul_Possession_Esp.srt"},
+      {"type":"file","name":"Xena-6x21-22-A_Friend_In_Need_Director's_Cut_Esp.srt"},
+      {"type":"file","name":"Xena-6x21-22-A_Friend_In_Need_Director's_Cut_(Jem)_Esp.srt"},
+      {"type":"file","name":"Xena-6x21-A_Friend_In_Need_1_Esp.srt"},
+      {"type":"file","name":"Xena-6x22-A_Friend_In_Need_2_Esp.srt"}
+    ]},
+    {"type":"directory","name":"X.Files.The(Season.1)(1993)-aRGENTeaM-1561","contents":[
+      {"type":"file","name":"X-Files [1x00] - Pilot-Pi314.srt"},
+      {"type":"file","name":"X-Files [1x01] - Deep Throat-Pi314.srt"},
+      {"type":"file","name":"X-Files [1x02] - Squeeze-Pi314.srt"},
+      {"type":"file","name":"X-Files [1x03] - Conduit-Pi314.srt"},
+      {"type":"file","name":"X-Files [1x04] - The Jersey Devil-Pi314.srt"},
+      {"type":"file","name":"X-Files [1x05] - Shadows-Pi314.srt"},
+      {"type":"file","name":"X-Files [1x06] - Ghost in the Machine-Pi314.srt"},
+      {"type":"file","name":"X-Files [1x07] - Ice-Pi314.srt"},
+      {"type":"file","name":"X-Files [1x08] - Space-Pi314.srt"},
+      {"type":"file","name":"X-Files [1x09] - Fallen Angel-Pi314.srt"},
+      {"type":"file","name":"X-Files [1x10] - Eve-Pi314.srt"},
+      {"type":"file","name":"X-Files [1x11] - Fire-Pi314.srt"},
+      {"type":"file","name":"X-Files [1x12] - Beyond The Sea-Pi314.srt"},
+      {"type":"file","name":"X-Files [1x13] - Gender Bender-Pi314.srt"},
+      {"type":"file","name":"X-Files [1x14] - Lazarus-Pi314.srt"},
+      {"type":"file","name":"X-Files [1x15] - Young at Heart-Pi314.srt"},
+      {"type":"file","name":"X-Files [1x16] - E.B.E.-Pi314.srt"},
+      {"type":"file","name":"X-Files [1x17] - Miracle Man-Pi314.srt"},
+      {"type":"file","name":"X-Files [1x18] - Shapes-Pi314.srt"},
+      {"type":"file","name":"X-Files [1x19] - Darkness Falls-Pi314.srt"},
+      {"type":"file","name":"X-Files [1x20] - Tooms-Pi314.srt"},
+      {"type":"file","name":"X-Files [1x21] - Born Again-Pi314.srt"},
+      {"type":"file","name":"X-Files [1x22] - Roland-Pi314.srt"},
+      {"type":"file","name":"X-Files [1x23] - The Erlenmeyer Flask-Pi314.srt"}
+    ]},
+    {"type":"directory","name":"X.Files.The(Season.2)(1993)-aRGENTeaM-1535","contents":[
+      {"type":"file","name":"Complete.Season.2.-.XviD-AC3-Pi314.htm"},
+      {"type":"file","name":"X-Files [2x01] - Little Green Men-Pi314.srt"},
+      {"type":"file","name":"X-Files [2x02] - The Host-Pi314.srt"},
+      {"type":"file","name":"X-Files [2x03] - Blood-Pi314.srt"},
+      {"type":"file","name":"X-Files [2x04] - Sleepless-Pi314.srt"},
+      {"type":"file","name":"X-Files [2x05] - Duane Barry-Pi314.srt"},
+      {"type":"file","name":"X-Files [2x06] - Ascension-Pi314.srt"},
+      {"type":"file","name":"X-Files [2x07] - 3-Pi314.srt"},
+      {"type":"file","name":"X-Files [2x08] - One Breath-Pi314.srt"},
+      {"type":"file","name":"X-Files [2x09] - Firewalker-Pi314.srt"},
+      {"type":"file","name":"X-Files [2x10] - Red Museum-Pi314.srt"},
+      {"type":"file","name":"X-Files [2x11] - Excelsius Dei-Pi314.srt"},
+      {"type":"file","name":"X-Files [2x12] - Aubrey-Pi314.srt"},
+      {"type":"file","name":"X-Files [2x13] - Irresistible-Pi314.srt"},
+      {"type":"file","name":"X-Files [2x14] - Die Hand Die Verletzt-Pi314.srt"},
+      {"type":"file","name":"X-Files [2x15] - Fresh Bones-Pi314.srt"},
+      {"type":"file","name":"X-Files [2x16] - Colony-Pi314.srt"},
+      {"type":"file","name":"X-Files [2x17] - End Game-Pi314.srt"},
+      {"type":"file","name":"X-Files [2x18] - Fearful Symmetry-Pi314.srt"},
+      {"type":"file","name":"X-Files [2x19] - Dod Kalm-Pi314.srt"},
+      {"type":"file","name":"X-Files [2x20] - Humbug-Pi314.srt"},
+      {"type":"file","name":"X-Files [2x21] - The Calusari-Pi314.srt"},
+      {"type":"file","name":"X-Files [2x22] - F. Emasculata-Pi314.srt"},
+      {"type":"file","name":"X-Files [2x23] - Soft Light-Pi314.srt"},
+      {"type":"file","name":"X-Files [2x24] - Our town-Pi314.srt"},
+      {"type":"file","name":"X-Files [2x25] - Anasazi-Pi314.srt"}
+    ]},
+    {"type":"directory","name":"X.Files.The(Season.3)(1993)-aRGENTeaM-1536","contents":[
+      {"type":"file","name":"X-Files [3x01] - The Blessing Way.srt"},
+      {"type":"file","name":"X-Files [3x02] - Paper Clip.srt"},
+      {"type":"file","name":"X-Files [3x03] - D.P.O.srt"},
+      {"type":"file","name":"X-Files [3x04] - Clyde Bruckman's Final Repose.srt"},
+      {"type":"file","name":"X-Files [3x05] - The List.srt"},
+      {"type":"file","name":"X-Files [3x06] - 2Shy.srt"},
+      {"type":"file","name":"X-Files [3x07] - The Walk.srt"},
+      {"type":"file","name":"X-Files [3x08] - Oubliette.srt"},
+      {"type":"file","name":"X-Files [3x09] - Nisei.srt"},
+      {"type":"file","name":"X-Files [3x10] - 731.srt"},
+      {"type":"file","name":"X-Files [3x11] - Revelations.srt"},
+      {"type":"file","name":"X-Files [3x12] - War of the Coprophages.srt"},
+      {"type":"file","name":"X-Files [3x13] - Syzygy.srt"},
+      {"type":"file","name":"X-Files [3x14] - Grotesque.srt"},
+      {"type":"file","name":"X-Files [3x15] - Piper Maru.srt"},
+      {"type":"file","name":"X-Files [3x16] - Apocrypha.srt"},
+      {"type":"file","name":"X-Files [3x17] - Pusher.srt"},
+      {"type":"file","name":"X-Files [3x18] - Teso Dos Bichos.srt"},
+      {"type":"file","name":"X-Files [3x19] - Hell Money.srt"},
+      {"type":"file","name":"X-Files [3x20] - Jose Chung's From Outer Space.srt"},
+      {"type":"file","name":"X-Files [3x21] - Avatar.srt"},
+      {"type":"file","name":"X-Files [3x22] - Quagmire.srt"},
+      {"type":"file","name":"X-Files [3x23] - Wetwired.srt"},
+      {"type":"file","name":"X-Files [3x24] - Talitha Cumi.srt"}
+    ]},
+    {"type":"directory","name":"X.Files.The(Season.4)(1993)-aRGENTeaM-1549","contents":[
+      {"type":"file","name":"X-Files 4-01 - Herrenvolk.srt"},
+      {"type":"file","name":"X-Files 4-02 - Home.srt"},
+      {"type":"file","name":"X-Files 4-03 - Teliko.srt"},
+      {"type":"file","name":"X-Files 4-04 - Unruhe.srt"},
+      {"type":"file","name":"X-Files 4-05 - The Field Where I Died.srt"},
+      {"type":"file","name":"X-Files 4-06 - Sanguinarium.srt"},
+      {"type":"file","name":"X-Files 4-07 - Musings Of A Cigarette-Smoking Man.srt"},
+      {"type":"file","name":"X-Files 4-08 - Tunguska.srt"},
+      {"type":"file","name":"X-Files 4-09 - Terma.srt"},
+      {"type":"file","name":"X-Files 4-10 - Paper Hearts.srt"},
+      {"type":"file","name":"X-Files 4-11 - El Mundo Gira.srt"},
+      {"type":"file","name":"X-Files 4-12 - Leonard Betts.srt"},
+      {"type":"file","name":"X-Files 4-13 - Never Again.srt"},
+      {"type":"file","name":"X-Files 4-14 - Memento Mori.srt"},
+      {"type":"file","name":"X-Files 4-15 - Kaddish.srt"},
+      {"type":"file","name":"X-Files 4-16 - Unrequited.srt"},
+      {"type":"file","name":"X-Files 4-17 - Tempus Fugit.srt"},
+      {"type":"file","name":"X-Files 4-18 - Max.srt"},
+      {"type":"file","name":"X-Files 4-19 - Synchrony.srt"},
+      {"type":"file","name":"X-Files 4-20 - Small Potatoes.srt"},
+      {"type":"file","name":"X-Files 4-21 - Zero.Sum.srt"},
+      {"type":"file","name":"X-Files 4-22 - Elegy.srt"},
+      {"type":"file","name":"X-Files 4-23 - Demons.srt"},
+      {"type":"file","name":"X-Files 4-24 - Gethsemane.srt"}
+    ]},
+    {"type":"directory","name":"X.Files.The(Season.5)(1993)-aRGENTeaM-1537","contents":[
+      {"type":"file","name":"e-links.5ta.AMC.html"},
+      {"type":"file","name":"X-Files [5x01] - Redux.srt"},
+      {"type":"file","name":"X-Files [5x02] - Redux II.srt"},
+      {"type":"file","name":"X-Files [5x03] - Unusual Suspects.srt"},
+      {"type":"file","name":"X-Files [5x04] - Detour.srt"},
+      {"type":"file","name":"X-Files [5x05] - Post-Modern Prometheus.srt"},
+      {"type":"file","name":"X-Files [5x06] - Christmas Carol.srt"},
+      {"type":"file","name":"X-Files [5x07] - Emily.srt"},
+      {"type":"file","name":"X-Files [5x08] - Kitsunegari.srt"},
+      {"type":"file","name":"X-Files [5x09] - Schizogeny.srt"},
+      {"type":"file","name":"X-Files [5x10] - Chinga.srt"},
+      {"type":"file","name":"X-Files [5x11] - Kill Switch.srt"},
+      {"type":"file","name":"X-Files [5x12] - Bad Blood.srt"},
+      {"type":"file","name":"X-Files [5x13] - Patient X.srt"},
+      {"type":"file","name":"X-Files [5x14] - The Red and the Black.srt"},
+      {"type":"file","name":"X-Files [5x15] - Travelers.srt"},
+      {"type":"file","name":"X-Files [5x16] - Mind's Eye.srt"},
+      {"type":"file","name":"X-Files [5x17] - All Souls.srt"},
+      {"type":"file","name":"X-Files [5x18] - The Pine Bluff Variant.srt"},
+      {"type":"file","name":"X-Files [5x19] - Folie a Deux.srt"},
+      {"type":"file","name":"X-Files [5x20] - The End.srt"}
+    ]},
+    {"type":"directory","name":"X.Files.The(Season.6)(1993)-aRGENTeaM-1538","contents":[
+      {"type":"file","name":"e-links.6ta.AMC.html"},
+      {"type":"file","name":"X-Files [6x01] - The Beginning.srt"},
+      {"type":"file","name":"X-Files [6x02] - Drive.srt"},
+      {"type":"file","name":"X-Files [6x03] - Triangle.srt"},
+      {"type":"file","name":"X-Files [6x04] - Dreamland.srt"},
+      {"type":"file","name":"X-Files [6x05] - Dreamland II.srt"},
+      {"type":"file","name":"X-Files [6x06] - How The Ghosts Stole Christmas.srt"},
+      {"type":"file","name":"X-Files [6x07] - Terms Of Endearment.srt"},
+      {"type":"file","name":"X-Files [6x08] - The Rain King.srt"},
+      {"type":"file","name":"X-Files [6x09] - S.R. 819.srt"},
+      {"type":"file","name":"X-Files [6x10] - Tithonus.srt"},
+      {"type":"file","name":"X-Files [6x11] - Two Fathers.srt"},
+      {"type":"file","name":"X-Files [6x12] - One Son.srt"},
+      {"type":"file","name":"X-Files [6x13] - Agua Mala.srt"},
+      {"type":"file","name":"X-Files [6x14] - Monday.srt"},
+      {"type":"file","name":"X-Files [6x15] - Arcadia.srt"},
+      {"type":"file","name":"X-Files [6x16] - Alpha.srt"},
+      {"type":"file","name":"X-Files [6x17] - Trevor.srt"},
+      {"type":"file","name":"X-Files [6x18] - Milagro.srt"},
+      {"type":"file","name":"X-Files [6x19] - The Unatural.srt"},
+      {"type":"file","name":"X-Files [6x20] - Three Of A Kind.srt"},
+      {"type":"file","name":"X-Files [6x21] - Field Trip.srt"},
+      {"type":"file","name":"X-Files [6x22] - Biogenesis.srt"}
+    ]},
+    {"type":"directory","name":"X.Files.The(Season.7)(1993)-aRGENTeaM-1539","contents":[
+      {"type":"file","name":"X-Files [7x01] - The Sixth Extinction.srt"},
+      {"type":"file","name":"X-Files [7x02] - The Sixth Extinction II - Amor Fati.srt"},
+      {"type":"file","name":"X-Files [7x03] - Hungry.srt"},
+      {"type":"file","name":"X-Files [7x04] - Millennium.srt"},
+      {"type":"file","name":"X-Files [7x05] - Rush.srt"},
+      {"type":"file","name":"X-Files [7x06] - The Goldberg Variation.srt"},
+      {"type":"file","name":"X-Files [7x07] - Orison.srt"},
+      {"type":"file","name":"X-Files [7x08] - The Amazing Maleeni.srt"},
+      {"type":"file","name":"X-Files [7x09] - Signs And Wonders.srt"},
+      {"type":"file","name":"X-Files [7x10] - Sein Und Zeit.srt"},
+      {"type":"file","name":"X-Files [7x11] - Closure.srt"},
+      {"type":"file","name":"X-Files [7x12] - X-COPS.srt"},
+      {"type":"file","name":"X-Files [7x13] - First Person Shooter.srt"},
+      {"type":"file","name":"X-Files [7x14] - Theef.srt"},
+      {"type":"file","name":"X-Files [7x15] - En Ami.srt"},
+      {"type":"file","name":"X-Files [7x16] - Chimera.srt"},
+      {"type":"file","name":"X-Files [7x17] - All Things.srt"},
+      {"type":"file","name":"X-Files [7x18] - Brand X.srt"},
+      {"type":"file","name":"X-Files [7x19] - Hollywood A.D.srt"},
+      {"type":"file","name":"X-Files [7x20] - Fight Club.srt"},
+      {"type":"file","name":"X-Files [7x21] - Je Souhaite.srt"},
+      {"type":"file","name":"X-Files [7x22] - Requiem.srt"},
+      {"type":"file","name":"X-Files [e-links].txt"}
+    ]},
+    {"type":"directory","name":"X.Files.The(Season.8)(1993)-aRGENTeaM-1540","contents":[
+      {"type":"file","name":"X-Files [8x01] - Within.srt"},
+      {"type":"file","name":"X-Files [8x02] - Without.srt"},
+      {"type":"file","name":"X-Files [8x03] - Patience.srt"},
+      {"type":"file","name":"X-Files [8x04] - Roadrunners.srt"},
+      {"type":"file","name":"X-Files [8x05] - Invocation.srt"},
+      {"type":"file","name":"X-Files [8x06] - Redrum.srt"},
+      {"type":"file","name":"X-Files [8x07] - Via Negativa.srt"},
+      {"type":"file","name":"X-Files [8x08] - Surekill.srt"},
+      {"type":"file","name":"X-Files [8x09] - Salvage.srt"},
+      {"type":"file","name":"X-Files [8x10] - Badlaa.srt"},
+      {"type":"file","name":"X-Files [8x11] - The Gift.srt"},
+      {"type":"file","name":"X-Files [8x12] - Medusa.srt"},
+      {"type":"file","name":"X-Files [8x13] - Per Manum.srt"},
+      {"type":"file","name":"X-Files [8x14] - This is not Happening.srt"},
+      {"type":"file","name":"X-Files [8x15] - Deadalive.srt"},
+      {"type":"file","name":"X-Files [8x16] - Three Words.srt"},
+      {"type":"file","name":"X-Files [8x17] - Empedocles.srt"},
+      {"type":"file","name":"X-Files [8x18] - Vienen.srt"},
+      {"type":"file","name":"X-Files [8x19] - Alone.srt"},
+      {"type":"file","name":"X-Files [8x20] - Essence.srt"},
+      {"type":"file","name":"X-Files [8x21] - Existence.srt"}
+    ]},
+    {"type":"directory","name":"X.Files.The(Season.9)(1993)-aRGENTeaM-1666","contents":[
+      {"type":"file","name":"X-Files[1].[9x01].-.Nothing.Important.Happened.Today-fov.zip"},
+      {"type":"file","name":"X-Files[1].[9x02].-.Nothing.Important.Happened.Today.II-fov.zip"},
+      {"type":"file","name":"X-Files[1].[9x03].-.Daemonicus-fov.zip"},
+      {"type":"file","name":"X-Files[1].[9x04].-.4D-fov.zip"},
+      {"type":"file","name":"X-Files[1].[9x05].-.Lord.Of.The.Flies-fov.zip"},
+      {"type":"file","name":"X-Files[1].[9x06].-.Trust.No1-fov.zip"},
+      {"type":"file","name":"X-Files[1].[9x07].-.John.Doe-fov.zip"},
+      {"type":"file","name":"X-Files[1].[9x08].-.Hellbound.zip"},
+      {"type":"file","name":"X-Files[1].[9x09].-.Provenance.zip"},
+      {"type":"file","name":"x-Files[1].[9x10].-.Providence.zip"},
+      {"type":"file","name":"X-Files[1].[9x11].-.Audrey.Pauley.zip"},
+      {"type":"file","name":"X-Files[1].[9x12].-.Underneath.zip"},
+      {"type":"file","name":"X-Files[1].[9x13].-.Improbable.zip"},
+      {"type":"file","name":"X-Files[1].[9x14].-.Scary.Monsters.zip"},
+      {"type":"file","name":"X-Files[1].[9x15].-.Jump.The.Shark.zip"},
+      {"type":"file","name":"X-Files[1].[9x16].-.William.zip"},
+      {"type":"file","name":"X-Files[1].[9x17].-.Release.zip"},
+      {"type":"file","name":"X-Files[1].[9x18].-.Sunshine.Days-fov.zip"},
+      {"type":"file","name":"X-Files[1].[9x19-20].-.The.Truth-fov.zip"}
+    ]},
+    {"type":"directory","name":"Xich.lo(1995)-aRGENTeaM-28282","contents":[
+      {"type":"file","name":"Xich.lo.(aka.Cyclo).1995.DVDRip.DivX3LM-QiX.CD1.srt"},
+      {"type":"file","name":"Xich.lo.(aka.Cyclo).1995.DVDRip.DivX3LM-QiX.CD2.srt"}
+    ]},
+    {"type":"directory","name":"XIII(Part-1)(2008)-aRGENTeaM-17611","contents":[
+      {"type":"file","name":"XIII.2008.Miniseries.Part.1.DVDRip.XviD-aAF.srt"}
+    ]},
+    {"type":"directory","name":"XIII(Part-2)(2008)-aRGENTeaM-20728","contents":[
+      {"type":"file","name":"XIII.2008.Miniseries.Part.2.DVDRip.XviD-aAF.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(101)(2011)-aRGENTeaM-29042","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E01.Pilot.WS.XviD-err0001.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(101-720p-WEB-DL)(2011)-aRGENTeaM-29044","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E01.Pilot.720p.WEB-DL.AVC-iON.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(101-720p-WEB-DL-CC)(2011)-aRGENTeaM-29045","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E01.Pilot.720p.WEB-DL.AVC-iON-CC.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(101-CC)(2011)-aRGENTeaM-29043","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E01.Pilot.WS.XviD-err0001-CC.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(102)(2011)-aRGENTeaM-29169","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E02.Green.Falls.WS.XviD-err0001.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(102-720p-WEB-DL)(2011)-aRGENTeaM-29171","contents":[
+      {"type":"file","name":"XIII.The.Series.2011.S01E02.Green.Falls.720p.WEB-DL.AVC-iON.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(102-720p-WEB-DL-CC)(2011)-aRGENTeaM-29172","contents":[
+      {"type":"file","name":"XIII.The.Series.2011.S01E02.Green.Falls.720p.WEB-DL.AVC-iON-CC.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(102-CC)(2011)-aRGENTeaM-29170","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E02.Green.Falls.WS.XviD-err0001-CC.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(103)(2011)-aRGENTeaM-29293","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E03.Lockdown.WS.XviD-err0001.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(103-720p-WEB-DL)(2011)-aRGENTeaM-29295","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E03.Lockdown.720p.WEB-DL.AVC-iON.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(103-720p-WEB-DL-CC)(2011)-aRGENTeaM-29296","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E03.Lockdown.720p.WEB-DL.AVC-iON-CC.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(103-CC)(2011)-aRGENTeaM-29294","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E03.Lockdown.WS.XviD-err0001-CC.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(104)(2011)-aRGENTeaM-29344","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E04.The.Irish.Version.WS.XviD-err0001.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(104-720p-WEB-DL)(2011)-aRGENTeaM-29346","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E04.The.Irish.Version.720p.WEB-DL.AVC-iON.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(104-720p-WEB-DL-CC)(2011)-aRGENTeaM-29347","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E04.The.Irish.Version.720p.WEB-DL.AVC-iON-CC.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(104-CC)(2011)-aRGENTeaM-29345","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E04.The.Irish.Version.WS.XviD-err0001-CC.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(105)(2011)-aRGENTeaM-29510","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E05.Training.Camp.WS.XviD-err0001.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(105-720p-WEB-DL)(2011)-aRGENTeaM-29512","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E05.Training.Camp.720p.WEB-DL.AVC-iON.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(105-720p-WEB-DL-CC)(2011)-aRGENTeaM-29513","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E05.Training.Camp.720p.WEB-DL.AVC-iON-CC.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(105-CC)(2011)-aRGENTeaM-29511","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E05.Training.Camp.WS.XviD-err0001-CC.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(106)(2011)-aRGENTeaM-29613","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E06.Costa.Verde.WS.XviD-err0001.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(106-720p-WEB-DL)(2011)-aRGENTeaM-29615","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E06.Costa.Verde.720p.WEB-DL.AVC-iON.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(106-720p-WEB-DL-CC)(2011)-aRGENTeaM-29616","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E06.Costa.Verde.720p.WEB-DL.AVC-iON-CC.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(106-CC)(2011)-aRGENTeaM-29614","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E06.Costa.Verde.WS.XviD-err0001-CC.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(107)(2011)-aRGENTeaM-29736","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E07.Undertow.WS.XviD-err0001.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(107-720p-WEB-DL)(2011)-aRGENTeaM-29738","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E07.Undertow.720p.WEB-DL.AVC-iON.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(107-720p-WEB-DL-CC)(2011)-aRGENTeaM-29739","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E07.Undertow.720p.WEB-DL.AVC-iON-CC.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(107-CC)(2011)-aRGENTeaM-29737","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E07.Undertow.WS.XviD-err0001-CC.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(108)(2011)-aRGENTeaM-29822","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E08.Hunting.Party.WS.XviD-err0001.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(108-720p-WEB-DL)(2011)-aRGENTeaM-29824","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E08.Hunting.Party.720p.WEB-DL.AVC-iON.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(108-720p-WEB-DL-CC)(2011)-aRGENTeaM-29825","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E08.Hunting.Party.720p.WEB-DL.AVC-iON-CC.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(108-CC)(2011)-aRGENTeaM-29823","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E08.Hunting.Party.WS.XviD-err0001-CC.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(109)(2011)-aRGENTeaM-29945","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E09.The.Bank.Job.WS.XviD-err0001.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(109-720p-WEB-DL)(2011)-aRGENTeaM-29947","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E09.The.Bank.Job.720p.WEB-DL.AVC-iON.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(109-720p-WEB-DL-CC)(2011)-aRGENTeaM-29948","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E09.The.Bank.Job.720p.WEB-DL.AVC-iON-CC.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(109-CC)(2011)-aRGENTeaM-29946","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E09.The.Bank.Job.WS.XviD-err0001-CC.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(110)(2011)-aRGENTeaM-30346","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E10.The.Train.WS.XviD-err0001.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(110-720p-WEB-DL)(2011)-aRGENTeaM-30348","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E10.The.Train.720p.WEB-DL.AVC-iON.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(110-720p-WEB-DL-CC)(2011)-aRGENTeaM-30349","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E10.The.Train.720p.WEB-DL.AVC-iON-CC.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(110-CC)(2011)-aRGENTeaM-30347","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E10.The.Train.WS.XviD-err0001-CC.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(111)(2011)-aRGENTeaM-30560","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E11.The.Bunker.WS.XviD-err0001.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(111-720p-WEB-DL)(2011)-aRGENTeaM-30562","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E11.The.Bunker.720p.WEB-DL.AVC-iON.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(111-720p-WEB-DL-CC)(2011)-aRGENTeaM-30563","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E11.The.Bunker.720p.WEB-DL.AVC-iON-CC.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(111-CC)(2011)-aRGENTeaM-30561","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E11.The.Bunker.WS.XviD-err0001-CC.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(112)(2011)-aRGENTeaM-30772","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E12.The.Key.WS.XviD-err0001.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(112-720p-WEB-DL)(2011)-aRGENTeaM-30774","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E12.The.Key.720p.WEB-DL.AVC-iON.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(112-720p-WEB-DL-CC)(2011)-aRGENTeaM-30775","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E12.The.Key.720p.WEB-DL.AVC-iON-CC.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(112-CC)(2011)-aRGENTeaM-30773","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E12.The.Key.WS.XviD-err0001-CC.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(113)(2011)-aRGENTeaM-31072","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E13.Revelation.WS.XviD-err0001.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(113-720p-WEB-DL)(2011)-aRGENTeaM-31074","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E13.Revelation.720p.WEB-DL.AVC-iON.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(113-720p-WEB-DL-CC)(2011)-aRGENTeaM-31075","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E13.Revelation.720p.WEB-DL.AVC-iON-CC.srt"}
+    ]},
+    {"type":"directory","name":"XIII.The.Series(113-CC)(2011)-aRGENTeaM-31073","contents":[
+      {"type":"file","name":"XIII.The.Series.S01E13.Revelation.WS.XviD-err0001-CC.srt"}
+    ]},
+    {"type":"directory","name":"X-Men(2000)-aRGENTeaM-18410","contents":[
+      {"type":"file","name":"X-Men_(2000).CD1.SBC.AC3.Sharereactor.srt"},
+      {"type":"file","name":"X-Men_(2000).CD2.SBC.AC3.Sharereactor.srt"}
+    ]},
+    {"type":"directory","name":"X-Men(2000)-aRGENTeaM-18411","contents":[
+      {"type":"file","name":"X.Men.2000.720p.BluRay.x264-BestHD.srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Apocalypse.(2016)-aRGENTeaM-62554","contents":[
+      {"type":"file","name":"X-Men.Apocalypse.2016.PROPER.BDRip.x264-Larceny.srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Apocalypse.(2016)-aRGENTeaM-62555","contents":[
+      {"type":"file","name":"X-Men.Apocalypse.2016.PROPER.720p.BluRay.x264-Felony.srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Apocalypse.(2016)-aRGENTeaM-62556","contents":[
+      {"type":"file","name":"X-Men.Apocalypse.2016.PROPER.REPACK.1080p.BluRay.x264-SECTOR7.srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Apocalypse.(2016)-aRGENTeaM-62662","contents":[
+      {"type":"file","name":"X-Men.Apocalypse.2016.3D.1080p.BluRay.x264-VALUE.srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Days.of.Future.Past.(2014)-aRGENTeaM-53015","contents":[
+      {"type":"file","name":"X-Men.Days.of.Future.Past.2014.DVDRip.XviD.AC3-EVO.srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Days.of.Future.Past.(2014)-aRGENTeaM-53299","contents":[
+      {"type":"file","name":"X-Men.Days.of.Future.Past.2014.720p.BluRay.X264-AMIABLE.srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Days.of.Future.Past.(2014)-aRGENTeaM-53300","contents":[
+      {"type":"file","name":"X-Men.Days.of.Future.Past.2014.1080p.BluRay.X264-AMIABLE.srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Days.of.Future.Past.(2014)-aRGENTeaM-53301","contents":[
+      {"type":"file","name":"X-Men.Days.of.Future.Past.2014.3D.1080p.BluRay.Half-SBS.x264.DTS-HD.MA.7.1-RARBG.srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Days.of.Future.Past.(2014)-aRGENTeaM-53302","contents":[
+      {"type":"file","name":"X-Men.Days.of.Future.Past.2014.BRRip.XviD.AC3-SANTi.srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Days.of.Future.Past.(2014)-aRGENTeaM-57308","contents":[
+      {"type":"file","name":"X-Men.Days.of.Future.Past.2014.THE.ROGUE.CUT.1080p.BluRay.x264-SADPANDA.srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Days.of.Future.Past.(2014)-aRGENTeaM-70283","contents":[
+      {"type":"file","name":"X-Men.Days.Of.Future.Past.2014.THE.ROGUE.CUT.BDRip.x264-VoMiT.srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Days.of.Future.Past.(2014)-aRGENTeaM-70284","contents":[
+      {"type":"file","name":"X-Men.Days.of.Future.Past.2014.THE.ROGUE.CUT.720p.BluRay.x264-SADPANDA.srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Evolution(101)(2000)-aRGENTeaM-15171","contents":[
+      {"type":"file","name":"X-Men_Evolution_-_1x01_-_Strategy_X_(DVDRip.640x480.eng)[ms].srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Evolution(102)(2000)-aRGENTeaM-15599","contents":[
+      {"type":"file","name":"X-Men_Evolution_-_1x02_-_The_X-Impulse_(DVDRip.640x480.eng)[ms].srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Evolution(103)(2000)-aRGENTeaM-15720","contents":[
+      {"type":"file","name":"X-Men_Evolution_-_1x03_-_Rogue_Recruit_(DVDRip.640x480.eng)[ms].srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Evolution(104)(2000)-aRGENTeaM-15884","contents":[
+      {"type":"file","name":"X-Men_Evolution_-_1x04_-_Mutant_Crush_(DVDRip.640x480.eng)[ms].srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Evolution(105)(2000)-aRGENTeaM-16215","contents":[
+      {"type":"file","name":"X-Men_Evolution_-_1x05_-_Speed_and_Spyke_(DVDRip.640x480.eng)[ms].srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Evolution(106)(2000)-aRGENTeaM-16216","contents":[
+      {"type":"file","name":"X-Men_Evolution_-_1x06_-_Middleverse_(DVDRip.640x480.eng)[ms].srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Evolution(107)(2000)-aRGENTeaM-16401","contents":[
+      {"type":"file","name":"X-Men_Evolution_-_1x07_-_Turn_of_the_Rogue_(DVDRip.640x480.eng)[ms].srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Evolution(108)(2000)-aRGENTeaM-16402","contents":[
+      {"type":"file","name":"X-Men_Evolution_-_1x08_-_Spyke_Cam_(DVDRip.640x480.eng)[ms].srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Evolution(109)(2000)-aRGENTeaM-16403","contents":[
+      {"type":"file","name":"X-Men_Evolution_-_1x09_-_Survival_of_the_Fittest_(DVDRip.640x480.eng)[ms].srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Evolution(110)(2000)-aRGENTeaM-16506","contents":[
+      {"type":"file","name":"X-Men_Evolution_-_1x10_-_Shadowed_Past_(DVDRip.640x480.eng)[ms].srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Evolution(111)(2000)-aRGENTeaM-16507","contents":[
+      {"type":"file","name":"X-Men_Evolution_-_1x11_-_Grim_Reminder_(DVDRip.640x480.eng)[ms].srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Evolution(112-113)(2000)-aRGENTeaM-16508","contents":[
+      {"type":"file","name":"X-Men_Evolution_-_1x12,13_-_The_Cauldron_(DVDRip.640x480.eng)[ms].srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Evolution(201)(2000)-aRGENTeaM-16674","contents":[
+      {"type":"file","name":"X-Men_Evolution_-_2x01_-_Growing_Pains_(DVDRip.640x480.eng)[ms].srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Evolution(202)(2000)-aRGENTeaM-16714","contents":[
+      {"type":"file","name":"X-Men_Evolution_-_2x02_-_Power_Surge_(DVDRip.640x480.eng)[ms].srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Evolution(203)(2000)-aRGENTeaM-16928","contents":[
+      {"type":"file","name":"X-Men_Evolution_-_2x03_-_Bada-Bing_Bada-Boom_(DVDRip.640x480.eng)[ms].srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Evolution(204)(2000)-aRGENTeaM-17037","contents":[
+      {"type":"file","name":"X-Men_Evolution_-_2x04_-_Fun_and_Games_(DVDRip.640x480.eng)[ms]..srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Evolution(205)(2000)-aRGENTeaM-17060","contents":[
+      {"type":"file","name":"X-Men_Evolution_-_2x05_-_The_Beast_of_Bayville_(DVDRip.640x480.eng)[ms].srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Evolution(206)(2000)-aRGENTeaM-17081","contents":[
+      {"type":"file","name":"X-Men_Evolution_-_2x06_-_Adrift_(DVDRip.640x480.eng)[ms].srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Evolution(207)(2000)-aRGENTeaM-17408","contents":[
+      {"type":"file","name":"X-Men_Evolution_-_2x07_-_On_Angel's_Wings_(DVDRip.640x480.eng)[ms].srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Evolution(208)(2000)-aRGENTeaM-18310","contents":[
+      {"type":"file","name":"X-Men_Evolution_-_2x08_-_African_Storm_(DVDRip.640x480.eng)[ms].srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Evolution(209)(2000)-aRGENTeaM-21631","contents":[
+      {"type":"file","name":"X-Men_Evolution_-_2x09_-_Joyride_(DVDRip.640x480.eng)[ms].srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Evolution(210)(2000)-aRGENTeaM-21642","contents":[
+      {"type":"file","name":"X-Men_Evolution_-_2x10_-_Walk_on_the_Wild_Side_(DVDRip.640x480.eng)[ms].srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Evolution(211)(2000)-aRGENTeaM-21670","contents":[
+      {"type":"file","name":"X-Men_Evolution_-_2x11_-_Operation_Rebirth_(DVDRip.640x480.eng)[ms].srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Evolution(212)(2000)-aRGENTeaM-21677","contents":[
+      {"type":"file","name":"X-Men_Evolution_-_2x12_-_Mindbender_(DVDRip.640x480.eng)[ms].srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Evolution(213)(2000)-aRGENTeaM-21710","contents":[
+      {"type":"file","name":"X-Men_Evolution_-_2x13_-_Shadow_Dance_(DVDRip.640x480.eng)[ms].srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Evolution(214)(2000)-aRGENTeaM-21726","contents":[
+      {"type":"file","name":"X-Men_Evolution_-_2x14_-_Retreat_(DVDRip.640x480.eng)[ms].srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Evolution(215)(2000)-aRGENTeaM-21762","contents":[
+      {"type":"file","name":"X-Men_Evolution_-_2x15_-_The_HeX_Factor_(DVDRip.640x480.eng)[ms].srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Evolution(216-17)(2000)-aRGENTeaM-21790","contents":[
+      {"type":"file","name":"X-Men_Evolution_-_2x16-17_-_Day_of_Reckoning_(DVDRip.640x480.eng)[ms].srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Evolution(Enemies.Unveiled)(2000)-aRGENTeaM-2551","contents":[
+      {"type":"file","name":"X-Men Evolution - Enemies Unveiled (2000) .srt"}
+    ]},
+    {"type":"directory","name":"X-Men.First.Class(2011)-aRGENTeaM-30104","contents":[
+      {"type":"file","name":"X-Men.First.Class.2011.R5.LiNE.READNFO.XviD-IMAGiNE.srt"}
+    ]},
+    {"type":"directory","name":"X-Men.First.Class(2011)-aRGENTeaM-30754","contents":[
+      {"type":"file","name":"X-Men.First.Class.2011.BluRay.720p.x264.DTS-HDChina.srt"}
+    ]},
+    {"type":"directory","name":"X-Men.First.Class(2011)-aRGENTeaM-30755","contents":[
+      {"type":"file","name":"X-Men.First.Class.2011.BluRay.720p.DTS.x264-CHD.srt"}
+    ]},
+    {"type":"directory","name":"X-Men.First.Class(2011)-aRGENTeaM-30760","contents":[
+      {"type":"file","name":"X-Men.First.Class.BDRip.XviD-TARGET.cd1.srt"},
+      {"type":"file","name":"X-Men.First.Class.BDRip.XviD-TARGET.cd2.srt"}
+    ]},
+    {"type":"directory","name":"X-Men.First.Class(2011)-aRGENTeaM-30761","contents":[
+      {"type":"file","name":"X-Men.First.Class.2011.576p.BRRip.XviD.AC3-WHiiZz.srt"}
+    ]},
+    {"type":"directory","name":"X-Men.First.Class.(2011)-aRGENTeaM-35082","contents":[
+      {"type":"file","name":"X-Men.First.Class.2011.BluRay.1080p.DTS.x264-CHD.srt"}
+    ]},
+    {"type":"directory","name":"X-Men.First.Class.(2011)-aRGENTeaM-35083","contents":[
+      {"type":"file","name":"X-Men.First.Class.2011.720p.BluRay.x264-Felony.srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Origins.Wolverine(2009)-aRGENTeaM-18594","contents":[
+      {"type":"file","name":"X-Men.Origins.Wolverine.DVDRip.XviD-JUAMNJi.srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Origins.Wolverine(2009)-aRGENTeaM-18637","contents":[
+      {"type":"file","name":"X-Men.Origins.Wolverine.2009.DVDrip.XviD.AC3-TMR.srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Origins.Wolverine(2009)-aRGENTeaM-18638","contents":[
+      {"type":"file","name":"X-Men.Origins.Wolverine.DVDRip.XviD.AC3-DEViSE.srt"}
+    ]},
+    {"type":"directory","name":"X-Men.Origins.Wolverine(720p)(2009)-aRGENTeaM-18923","contents":[
+      {"type":"file","name":"X-Men.Origins.Wolverine.720p.BluRay.x264.REPACK-METiS.srt"}
+    ]},
+    {"type":"directory","name":"X-Men.The.Last.Stand.(2006)-aRGENTeaM-38992","contents":[
+      {"type":"file","name":"X-Men.3.The.Last.Stand.2006.720p.BDRip.DTS.x264-SiLU.srt"}
+    ]},
+    {"type":"directory","name":"X-Men.The.Last.Stand.(2006)-aRGENTeaM-38994","contents":[
+      {"type":"file","name":"X.Men.The.Last.Stand.2006.1080p.BluRay.x264.DTS-ES.PRoDJi.srt"}
+    ]},
+    {"type":"directory","name":"X-Men.The.Last.Stand(2006)-aRGENTeaM-5457","contents":[
+      {"type":"file","name":"X-Men.The.Last.Stand.PROPER.DVDRip.XviD-DoNE.srt"}
+    ]},
+    {"type":"directory","name":"X-Men.The.Last.Stand(2006)-aRGENTeaM-5484","contents":[
+      {"type":"file","name":"X-Men.The.Last.Stand.2006.DVDRip.XviD.AC3.CD1-JUPiT.srt"},
+      {"type":"file","name":"X-Men.The.Last.Stand.2006.DVDRip.XviD.AC3.CD2-JUPiT.srt"}
+    ]},
+    {"type":"directory","name":"Xuxa.e.os.Duendes(2001)-aRGENTeaM-613","contents":[
+      {"type":"directory","name":"Xuxa e os Duendes (2001).By Shack"}
+    ]},
+    {"type":"directory","name":"XX.(2017)-aRGENTeaM-66238","contents":[
+      {"type":"file","name":"XX.2017.LIMITED.BDRip.x264-DRONES.srt"}
+    ]},
+    {"type":"directory","name":"XX.(2017)-aRGENTeaM-66239","contents":[
+      {"type":"file","name":"XX.2017.LIMITED.720p.BluRay.x264-DRONES.srt"}
+    ]},
+    {"type":"directory","name":"XX.(2017)-aRGENTeaM-66240","contents":[
+      {"type":"file","name":"XX.2017.LIMITED.1080p.BluRay.x264-DRONES.srt"}
+    ]},
+    {"type":"directory","name":"XXX(2002)-aRGENTeaM-31564","contents":[
+      {"type":"file","name":"xXx.2002.720p.BluRay.x264.AC3.5.1-DEFiNiTiON.srt"}
+    ]},
+    {"type":"directory","name":"XXX(2002)-aRGENTeaM-618","contents":[
+      {"type":"file","name":"Triple.X.Proper.DVDrip.DivX-PosTX-CD1.srt"},
+      {"type":"file","name":"Triple.X.Proper.DVDrip.DivX-PosTX-CD2.srt"}
+    ]},
+    {"type":"directory","name":"XY.(2014)-aRGENTeaM-59698","contents":[
+      {"type":"file","name":"A.Brilliant.Young.Mind.2014.DVDRip.x264-RedBlade.srt"}
+    ]},
+    {"type":"directory","name":"XY.(2014)-aRGENTeaM-62045","contents":[
+      {"type":"file","name":"X.Plus.Y.2014.BRRip.XviD.AC3-EVO.srt"}
+    ]},
+    {"type":"directory","name":"XY.(2014)-aRGENTeaM-62046","contents":[
+      {"type":"file","name":"X.Plus.Y.2014.LIMITED.720p.BluRay.X264-AMIABLE.srt"}
+    ]},
+    {"type":"directory","name":"XY.(2014)-aRGENTeaM-62047","contents":[
+      {"type":"file","name":"X.Plus.Y.2014.LIMITED.1080p.BluRay.X264-AMIABLE.srt"}
+    ]}
   ]}
 ,
-  {"type":"report","directories":1,"files":416}
+  {"type":"report","directories":234,"files":436}
 ]

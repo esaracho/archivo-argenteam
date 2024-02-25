@@ -165,7 +165,7 @@ $dir = [...$json[0]->contents];
               if ($contentd->type == "file") {
                 
                 echo "<tr>";              
-                echo '<td class="text-center">', getName($contentd->name) , "</td>";
+                echo '<td class="text-center">', $contentd->name , "</td>";
                 echo "</tr>";
 
               }

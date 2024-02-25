@@ -2,7 +2,6 @@
   {"type":"directory","name":".","contents":[
     {"type":"file","name":"9.json"},
     {"type":"file","name":"A.json"},
-    {"type":"file","name":"B.json"},
     {"type":"file","name":"C.json"},
     {"type":"file","name":"D.json"},
     {"type":"file","name":"E.json"},
