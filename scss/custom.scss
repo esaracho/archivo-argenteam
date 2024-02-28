@@ -1,0 +1,74 @@
+// Custom.scss
+// Option A: Include all of Bootstrap
+
+// Include any default variable overrides here (though functions won't be available)
+
+// Required
+@import "../boots/scss/functions";
+
+// Then add additional custom code here
+
+$body-bg: #fcf9f7;
+$info: #fe9000;
+//$btn-color: #fcf9f7;
+//$input-border-color: #fe9000;
+//$input-box-shadow: none;
+$input-focus-border-color: #fe9000;
+$input-focus-box-shadow: none;
+
+//@import "../boots/scss/bootstrap";
+
+
+@import "../boots/scss/variables";
+@import "../boots/scss/maps";
+@import "../boots/scss/mixins";
+@import "../boots/scss/utilities";
+
+
+// Optional Bootstrap components here
+/* @import "../boots/scss/reboot";
+@import "../boots/scss/type";
+@import "../boots/scss/tables";
+@import "../boots/scss/forms";
+@import "../boots/scss/containers";
+@import "../boots/scss/grid";
+@import "../boots/scss/buttons";
+@import "../boots/scss/button-group"; */
+// Layout & components
+@import "../boots/scss/root";
+@import "../boots/scss/reboot";
+@import "../boots/scss/type";
+//@import "images";
+@import "../boots/scss/containers";
+//@import "grid";
+@import "../boots/scss/tables";
+@import "../boots/scss/forms";
+@import "../boots/scss/buttons";
+//@import "transitions";
+//@import "dropdown";
+@import "../boots/scss/button-group";
+//@import "nav";
+//@import "navbar";
+//@import "card";
+//@import "accordion";
+//@import "breadcrumb";
+//@import "pagination";
+//@import "badge";
+//@import "alert";
+//@import "progress";
+//@import "list-group";
+//@import "close";
+//@import "toasts";
+//@import "modal";
+//@import "tooltip";
+//@import "popover";
+//@import "carousel";
+//@import "spinners";
+//@import "offcanvas";
+//@import "placeholders";
+
+// Helpers
+@import "../boots/scss/helpers";
+
+// Utilities
+@import "../boots/scss/utilities/api";

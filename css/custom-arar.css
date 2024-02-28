@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'alfa_slab_oneregular';
+    src: url('../fonts/alfaslabone-regular-webfont.woff2') format('woff2'),
+         url('../fonts/alfaslabone-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.titulo {
+    font-family: "alfa_slab_oneregular", "Trebuchet MS", Verdana, serif;
+}
+
+.ar {
+    color: #fe9000;
+}
+
+a:visited {
+    color: #6f42c1;
+  }
