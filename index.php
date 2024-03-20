@@ -13,21 +13,21 @@ You should have received a copy of the GNU General Public License along with thi
   <meta name="description" content="Archivo de los subtítulos realizados por la comunidad de Argenteam.net">
   <meta name="keywords" content="Subtítulos, Argenteam.net, Archivo">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="css/custom.css">
+  <link rel="stylesheet" href="css/custom-min.css">
   <link rel="stylesheet" href="css/custom-arar.css">
 </head>
 
 <body>
 <!-- Titulo y descripcion-->
   <header class="container-md">
-    <a href="https://www.arar.net.ar" class="text-reset text-decoration-none"><h1 class="text-center mt-4 titulo"><span class="ar">Ar</span>chivo <span class="ar">Ar</span>genteam</h1></a>
-    <p class="text-center">Archivo de los subtítulos realizados por la comunidad <a class="link-opacity-50-hover" href="https://argenteam.net/" target="_blank">Argenteam.net</a></p>
-    <p class="text-center text-secondary">Se puede descargar el archivo completo (1,99 GB) con todos los subtitulos por <a class="link-opacity-50-hover" href="magnet:?xt=urn:btih:DBYJKHEO6UGINGYCSA4SMI44V7MYMTRA&dn=subtitulos-argenteam&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce">torrent</a></p>
+    <a href="https://www.arar.net.ar" class="text-reset text-decoration-none"><h1 class="text-center my-4 titulo"><span class="text-info">Ar</span>chivo <span class="text-info">Ar</span>genteam</h1></a>
+    <p class="text-center">Archivo de los subtítulos realizados por la comunidad <a class="link-opacity-50-hover link-dark" href="https://argenteam.net/" target="_blank">Argenteam.net</a>
+    . Se puede descargar el archivo completo (1,99 GB) con todos los subtítulos por <a class="link-opacity-50-hover link-dark" href="magnet:?xt=urn:btih:DBYJKHEO6UGINGYCSA4SMI44V7MYMTRA&dn=subtitulos-argenteam&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce">torrent</a>.</p>
   </header>
 
 <!-- Formulario busqueda -->
   <search class="container-md mt-4">
-    <form name="formlink" method="post" class="form-inline" action="index.php" role="form" id="busqueda">
+    <form name="formlink" method="post" class="form-inline" action="index.php" id="busqueda">
       <div class="input-group">
         <input type="text" class="form-control" name="query" id="query" placeholder="Buscar subtítulo" required autofocus>
         <input class="btn btn-info" type="submit" name="Submit" value="Buscar">
@@ -187,7 +187,7 @@ $dir = [...$json[0]->contents];
   </div>
 
   <footer class="container-md mt-5">
-    <p class="text-center text-secondary mb-0">¿Problemas?</p>
+    <p class="text-center mb-0">¿Problemas?</p>
     <address>
       <p class="text-center"><a class="link-opacity-50-hover link-dark me-1" href="https://github.com/esaracho/archivo-argenteam/issues" target="_blank">GitHub</a> <a class="link-opacity-50-hover link-dark ms-1" href="mailto:archivo.argenteam@gmail.com">eMail</a></p>
     </address>
