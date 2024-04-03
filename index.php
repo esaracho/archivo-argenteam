@@ -60,6 +60,7 @@ function getQuery($q) : string {
         $s1 .= "[[:print:]]*" . "\b" . $word . "\b";
 
       }
+
       $s = "/" . $s1 . "/i";
       
       return $s;
@@ -95,33 +96,28 @@ function getLink($p, $n) : string {
 
 }
 
-function searchZip($s, $n) : bool {
-  
-  $name = getName($n->name);
-  
-  if (preg_match($s, $name)) {
+function searchQuery($search, $zip, $content) : bool {
+
+  $nameZip = getName($zip->name);
+
+  if (preg_match($search, $nameZip)) {
 
     return true;
 
   } else {
     
-    return false;
+    foreach ($content as $c) {
+
+      $nameContent = getName($c->name);
   
-  }
-}
-
-function searchContent($s, $na) : bool {
-
-  foreach ($na as $n) {
-
-    $namec = getName($n->name);
-
-    if (preg_match($s, $namec)) {
-
-      return true;
+      if (preg_match($search, $nameContent)) {
+  
+        return true;
+    
+      }
   
     }
-
+  
   }
 
   return false;
@@ -155,7 +151,7 @@ $dir = [...$json[0]->contents];
         $nameZip = preg_replace("/-aRGENTeaM-[[:digit:]]+/" , "" , getName($zip->name));//nombre del zip
         $contents = $zip->contents; //array de subtitulos
 
-          if (searchContent($search, $contents) || searchZip($search, $zip)) {
+        if (searchQuery($search, $zip, $contents)) {
 
           $file = getLink($path, $zip->name); 
 
