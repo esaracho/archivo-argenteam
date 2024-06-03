@@ -6,8 +6,23 @@
     font-display: swap;
 }
 
+.home {
+
+    display: block;
+    width: fit-content;
+    margin: 0 auto;
+
+}
+
 .titulo {
     font-family: "alfa_slab_oneregular", "Trebuchet MS", Verdana, serif;
+}
+
+header p {
+
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 3px;
 }
 
 a:visited {

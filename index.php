@@ -20,13 +20,13 @@ You should have received a copy of the GNU General Public License along with thi
 <body>
 <!-- Titulo y descripcion-->
   <header class="container-md">
-    <a href="https://www.arar.net.ar" class="text-reset text-decoration-none"><h1 class="text-center my-4 titulo"><span class="text-info">Ar</span>chivo <span class="text-info">Ar</span>genteam</h1></a>
+    <a href="https://www.arar.net.ar" class="text-reset text-decoration-none home"><h1 class="mt-5 mb-0 titulo archivo"><span class="text-info">Ar</span>chivo</h1><h1 class="mb-3 titulo"><span class="text-info">Ar</span>genteam</h1></a>
     <p class="text-center">Archivo de los subtítulos realizados por la comunidad <a class="link-opacity-50-hover link-dark" href="https://argenteam.net/" target="_blank">Argenteam.net</a>
     . Se puede descargar el archivo completo (1,99 GB) con todos los subtítulos por <a class="link-opacity-50-hover link-dark" href="magnet:?xt=urn:btih:DBYJKHEO6UGINGYCSA4SMI44V7MYMTRA&dn=subtitulos-argenteam&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce">torrent</a>.</p>
   </header>
 
 <!-- Formulario busqueda -->
-  <search class="container-md mt-4">
+  <search class="container-md mt-5">
     <form name="formlink" method="post" class="form-inline" action="index.php" id="busqueda">
       <div class="input-group">
         <input type="text" class="form-control" name="query" id="query" placeholder="Buscar subtítulo" required autofocus>
