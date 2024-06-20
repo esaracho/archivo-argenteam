@@ -16,6 +16,8 @@
 
 .titulo {
     font-family: "alfa_slab_oneregular", "Trebuchet MS", Verdana, serif;
+    line-height: 0.9;
+     font-size: min(max(2.5vw, 40px), 50px);
 }
 
 header p {
