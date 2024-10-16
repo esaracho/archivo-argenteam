@@ -143,6 +143,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 $indexf = file_get_contents("db/index.json");
 $indexj = json_decode($indexf);
 $filenames = [...$indexj[0]->contents];
+$noResults = true;
 
 //if search no está vacio
 
@@ -162,6 +163,7 @@ $dir = [...$json[0]->contents];
 
         if (searchQuery($search, $zip, $contents)) {
 
+          $noResults = false;
           $file = getLink($path, $zip->name); 
 
             echo "<tr>";
@@ -183,7 +185,9 @@ $dir = [...$json[0]->contents];
           }
         }
     }
-
+  if ($noResults) {
+    echo '<p class="text-center mt-5">No hay resultados  :(</p>';
+  }
  }
 ?>
       </tbody>
