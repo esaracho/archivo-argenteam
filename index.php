@@ -66,7 +66,7 @@ function getQuery($q) : string {
       }
 
       $s = "/" . $s1 . "/i";
-      
+
       return $s;
 
     } else {
